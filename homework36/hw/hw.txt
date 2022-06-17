@@ -1,0 +1,10 @@
+import requests
+'''
+作业
+
+https://www.kugou.com/yy/html/rank.html
+酷狗飙升榜内的音乐全部下载到本地  
+拿不到歌曲的真实地址 就拿歌词
+
+'''
+

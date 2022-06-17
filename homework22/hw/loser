@@ -1,0 +1,3 @@
+string = "this is string exiamplie....woiw!!!"
+
+print(string.split('w'))

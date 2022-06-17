@@ -1,0 +1,9 @@
+hw:
+
+
+    recode main.py to use google translate
+
+
+NOTE: change the "kw" to whatever google translate uses
+also change the url to whatever google translate uses
+IMPORTANT: make sure content-type is application/json

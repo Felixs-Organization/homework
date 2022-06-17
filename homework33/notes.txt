@@ -1,0 +1,2 @@
+soup.(element_name) - finds the first element name found in the file / text
+soup.find() - the same thing as above
