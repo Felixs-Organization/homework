@@ -1,0 +1,30 @@
+import requests
+'''
+作业
+爬取30个视频 写入到文件内 
+视频的名字和视频的内容要对应
+要用vpn
+要用代码创建一个文件
+https://haokan.baidu.com/
+
+
+'''
+
+url = 'http://vd3.bdstatic.com/mda-nf1f94je45svdcxp/360p/h264/1654166826931341502/mda-nf1f94je45svdcxp.mp4?v_from_s=hkapp-haokan-hna'
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.3'
+}
+con = requests.get(url,headers=headers).content
+f = open('1.mp4','wb')
+f.write(con)
+f.close()
+
+# print(con)
+
+
+
+
+
+
+
+

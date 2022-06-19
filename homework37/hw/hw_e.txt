@@ -1,0 +1,6 @@
+ Assignment
+Crawl 30 videos and write them to a file 
+The name of the video and the content of the video should correspond
+To use vpn
+ To create a file with code
+https://haokan.baidu.com/
