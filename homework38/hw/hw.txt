@@ -1,0 +1,6 @@
+'''
+作业
+https://pvp.qq.com/web201605/herolist.shtml
+吧所有的英雄属性爬取下来 写入到excel中
+
+'''
