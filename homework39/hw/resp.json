@@ -1,0 +1,998 @@
+{
+    "data": [
+        {
+            "id": "24_1658094305.380",
+            "type": "feed",
+            "offset": 24,
+            "verb": "TOPIC_ACKNOWLEDGED_ANSWER",
+            "created_time": 1658094305,
+            "updated_time": 1658094305,
+            "target": {
+                "id": 2573785185,
+                "type": "answer",
+                "url": "https://api.zhihu.com/answers/2573785185",
+                "author": {
+                    "id": "71fc3144565643c90b80952df198a4b5",
+                    "type": "people",
+                    "url": "https://api.zhihu.com/people/71fc3144565643c90b80952df198a4b5",
+                    "user_type": "people",
+                    "url_token": "ao-yun-40-95",
+                    "name": "飞特那斯",
+                    "headline": "健身其实很简单",
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-0eaca9c1b92e17ee3937e272f5036ce9_m.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "体育领域答主"
+                        },
+                        {
+                            "type": "identity_people",
+                            "description": "体育领域答主",
+                            "topics": [],
+                            "topic_names": [],
+                            "topic_ids": []
+                        }
+                    ],
+                    "followers_count": 103723,
+                    "is_following": false,
+                    "is_followed": false
+                },
+                "created_time": 1657769940,
+                "updated_time": 1657769940,
+                "voteup_count": 44,
+                "thanks_count": 23,
+                "comment_count": 0,
+                "is_copyable": true,
+                "question": {
+                    "id": 338590379,
+                    "type": "question",
+                    "url": "https://api.zhihu.com/questions/338590379",
+                    "author": {
+                        "id": "ac7b1f17cd15322b9fa809b68123a6f0",
+                        "type": "people",
+                        "url": "https://api.zhihu.com/people/ac7b1f17cd15322b9fa809b68123a6f0",
+                        "user_type": "people",
+                        "url_token": "zhang-xiao-xin-56-90",
+                        "name": "雨眠",
+                        "headline": "",
+                        "avatar_url": "https://pic4.zhimg.com/50/v2-be94d95d13379b4481900e7d65abdb8f_m.jpg",
+                        "is_org": false,
+                        "gender": 0,
+                        "badge": [],
+                        "followers_count": 2,
+                        "is_following": false,
+                        "is_followed": false
+                    },
+                    "title": "腰肌劳损真的能根治吗？",
+                    "created": 1564881017,
+                    "answer_count": 164,
+                    "follower_count": 3560,
+                    "comment_count": 6,
+                    "bound_topic_ids": [
+                        237,
+                        307,
+                        1309,
+                        18012,
+                        41100
+                    ],
+                    "is_following": false,
+                    "excerpt": "",
+                    "relationship": {
+                        "is_author": false
+                    },
+                    "detail": "",
+                    "question_type": "normal"
+                },
+                "thumbnail": "https://pic2.zhimg.com/50/v2-a59fffe395b7d315434802687f0fa471_hd.jpg",
+                "thumbnail_extra_info": {
+                    "video_id": "1530175957138239488",
+                    "type": "video",
+                    "url": "https://pic4.zhimg.com/v2-a59fffe395b7d315434802687f0fa471.jpg?source=382ee89a",
+                    "height": 1080,
+                    "width": 1920,
+                    "duration": 165,
+                    "playlist": {
+                        "ld": {
+                            "url": "https://vdn3.vzuu.com/SD/5c5be75c-01a0-11ed-a876-82fa79ffef5b-v8_t121-whmWMXBUPf.mp4?disable_local_cache=1&bu=b9ce98d5&c=avc.8.0&f=mp4&expiration=1658097905&auth_key=1658097905-0-0-a1051ba83497c892aff37f97df60039c&v=tx&pu=1513c7c2",
+                            "bitrate": 493,
+                            "duration": 165,
+                            "format": "mp4",
+                            "fps": 24,
+                            "height": 478,
+                            "size": 10209525,
+                            "width": 848
+                        },
+                        "sd": {
+                            "url": "https://vdn3.vzuu.com/SD/5c5be75c-01a0-11ed-a876-82fa79ffef5b-v8_t121-whmWMXBUPf.mp4?disable_local_cache=1&bu=b9ce98d5&c=avc.8.0&f=mp4&expiration=1658097905&auth_key=1658097905-0-0-a1051ba83497c892aff37f97df60039c&v=tx&pu=1513c7c2",
+                            "bitrate": 493,
+                            "duration": 165,
+                            "format": "mp4",
+                            "fps": 24,
+                            "height": 478,
+                            "size": 10209525,
+                            "width": 848
+                        },
+                        "hd": {
+                            "url": "https://vdn3.vzuu.com/HD/5c5be75c-01a0-11ed-a876-82fa79ffef5b-v8_t121-whmWMXBUPf.mp4?disable_local_cache=1&bu=b9ce98d5&c=avc.8.0&f=mp4&expiration=1658097905&auth_key=1658097905-0-0-fce301ca705611bcba57f79501bc0ff7&v=tx&pu=1513c7c2",
+                            "bitrate": 830,
+                            "duration": 165,
+                            "format": "mp4",
+                            "fps": 24,
+                            "height": 720,
+                            "size": 17189913,
+                            "width": 1280
+                        }
+                    },
+                    "show_maker_entrance": false
+                },
+                "excerpt": "从理论上来看，腰肌劳损是可以康复的。腰肌劳损最主要的问题是腰部肌肉筋膜出现无菌炎症，从而导致的疼痛，一休息就会有缓解，一工作肯就会加重。想要从根本上改善腰痛问题，必须通过运动，运动会加快腰部肌肉新陈代谢速度，加快肌肉筋膜的修复，这样才能改善甚至是根除腰肌劳损。今天的腰部加钱训练可以试试，包括3个腰部肌肉强化动作，有低阶版和高阶版；1个腰部放松动作，可以从根本上改善大部分的腰痛问题。 1.仰卧臀桥撑，…",
+                "excerpt_new": "从理论上来看，腰肌劳损是可以康复的。腰肌劳损最主要的问题是腰部肌肉筋膜出现无菌炎症，从而导致的疼痛，一休息就会有缓解，一工作肯就会加重。想要从根本上改善腰痛问题，必须通过运动，运动会加快腰部肌肉新陈代谢速度，加快肌肉筋膜的修复，这样才能改善甚至是根除腰肌劳损。今天的腰部加钱训练可以试试，包括3个腰部肌肉强化动作，有低阶版和高阶版；1个腰部放松动作，可以从根本上改善大部分的腰痛问题。 1.仰卧臀桥撑，…",
+                "preview_type": "default",
+                "preview_text": "",
+                "reshipment_settings": "allowed",
+                "content": "从理论上来看，腰肌劳损是可以康复的。腰肌劳损最主要的问题是腰部肌肉筋膜出现无菌炎症，从而导致的疼痛，一休息就会有缓解，一工作肯就会加重。想要从根本上改善腰痛问题，必须通过运动，运动会加快腰部肌肉新陈代谢速度，加快肌肉筋膜的修复，这样才能改善甚至是根除腰肌劳损。今天的腰部加钱训练可以试试，包括3个腰部肌肉强化动作，有低阶版和高阶版；1个腰部放松动作，可以从根本上改善大部分的腰痛问题。\n\n1.仰卧臀桥撑，这个动作可以加强腰部和臀腿的肌肉力量，没有基础的朋友做低阶版。身体仰卧躺在地面上，手臂伸直放在身体两侧，两脚踩实地面，然后呼气，向上挺起髋部，直到肩膀，髋部，膝盖呈一条直线，尽量收紧腰部和臀部，此时保持均匀呼气，保持20秒。然后吸气，缓慢下放髋部，臀部接近地面时再次挺起髋部。一组1分钟，做2组。有运动基础的朋友，可以直接做正常的臀桥动作，做的时候尽量收紧腰部臀部，在最高点稍微停顿。一组15次，做2组。\n\n2.俯卧挺身，这个动作可以很好加强腰部肌肉力量。俯身趴在地上，两手虚抱头放在头两侧，两腿伸直。然后呼气，腰部发力，缓慢抬起上身，在最高点停顿1秒。然后吸气，缓慢下放身体，在身体接近地面时再次挺起。一组10次，做2组。运动基础好的朋友可以做小燕飞这个动作，这个动作要求身体有更好的控制力，锻炼效果也会更好。一组8到10次，做2组。\n\n3.屈膝抬腿，这个动作非常适合0基础的朋友，动作难度最低，腰部力量强化效果还不错。还是采用俯卧的姿势，身体趴在地面上，手臂弯曲支撑上身，两腿屈膝，小腿垂直地面，两脚可以靠在一起。然后呼气，腰部发力，向上顶起两腿，两腿高度离地10cm即可，在最高点停顿1s，然后吸气，缓慢下放两腿。两腿接近地面时就可以重复动作。一组12次，做2组。有基础的朋友做的时候可以，伸直两腿，趴在凳子上或者沙发上，两手抓住凳子固定身体。动作要点一样。两腿抬到水平面即可，力量大的朋友可以抬的稍微高点。一组10次，做两组。\n\n4.猫牛式，这个动作可以放松腰部肌肉的僵硬感，同时增加脊柱的灵活性。身体俯身四足支撑。尽力使手臂和大腿垂直地面。然后吸气，尽量下榻腰部，在最低点保持3秒，然后呼气。尽量拱起腰部，在最高点保持3秒。然后重复动作。一组12次，做2到3组。\n\n没有运动基础的朋友，最少选择2个强化动作，经常练习就可以，强化动作完成以后一定要做最后的放松练习，这样可以很好的缓解肌肉僵硬和酸痛。首次完成训练，第二天腰部轻微的酸痛是正常的，适应几天就好了",
+                "mark_infos": [],
+                "relationship": {
+                    "is_thanked": false,
+                    "is_nothelp": false,
+                    "voting": 0,
+                    "upvoted_followee_ids": []
+                },
+                "is_labeled": false,
+                "visited_count": 1,
+                "play_count": 54745,
+                "attachment": {
+                    "type": 2,
+                    "is_complete": true,
+                    "parent_content_token": "1530178347811868672",
+                    "split_start": 0,
+                    "parent_title": "经常腰酸腰痛？3个动作强化腰部，彻底根除腰酸背痛",
+                    "parent_play_count": 116901,
+                    "parent_voteup_count": 69
+                },
+                "thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-a59fffe395b7d315434802687f0fa471_hd.jpg"
+                ],
+                "creation_relationship": {
+                    "render_json": "{}"
+                },
+                "favorite_count": 128
+            },
+            "brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 2573785185}",
+            "uninterest_reasons": [
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19604128",
+                    "object_type": "topic",
+                    "reason_text": "医学"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19673265",
+                    "object_type": "topic",
+                    "reason_text": "腰肌劳损"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19550937",
+                    "object_type": "topic",
+                    "reason_text": "健康"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19554151",
+                    "object_type": "topic",
+                    "reason_text": "调查类问题"
+                },
+                {
+                    "reason_id": 2,
+                    "reason_type": "creator",
+                    "object_token": "71fc3144565643c90b80952df198a4b5",
+                    "object_type": "people",
+                    "reason_text": "飞特那斯创作的内容"
+                }
+            ],
+            "attached_info": "CsQECO/q19urtqO9jQEQBBoJNDk4MDQ2MzAzINSfvpYGKCwwAEAYSiIKGVRTX1NPVVJDRV9IT1RfTkVXX0NPTlRFTlQSATEYACAAWggzNzUxOTA5MGIgYjAyYTI2N2IwZTMzMjNiODc2ZTk5OTk5ZmVlZDdhMTlogODFiNDdkZ4VcgoyNTczNzg1MTg1igEJMzM4NTkwMzc5qgEJcmVjb21tZW5k8gEFCAsSATXyAQoIDBIGTm9ybWFs8gEoCAoSJGU0ZTg0MjU0LTVmYzEtNDdkZC1hYTJmLWU2YzJlMGY2MTg0NogCjoD98KAwkgIgNzFmYzMxNDQ1NjU2NDNjOTBiODA5NTJkZjE5OGE0YjWaAgDKAhpIaWdoTGV2ZWxDcmVhdG9yV2VpZ2h0UnVsZcoCF1p2aWRlb0V4cGFuZFdXZWlnaHRSdWxlygIbVmlkZW9OZXR3b3JrU2NlbmVXZWlnaHRSdWxlygIeWnZpZGVvVXNlclBlcmZlcmVuY2VXZWlnaHRSdWxlygIOQ3VycmVuY3lSYW5rZXLaAhlUU19TT1VSQ0VfSE9UX05FV19DT05URU5U6AID+gILTk9STUFMX0ZMT1eKAyBjZjM1NTM5MWE0OWE0NmVlOWY4YTNhYmI5ZmY5NzE1NpoDBgoCdjIQAKgDAcIDEuS9k+iCsumihuWfn+etlOS4u8oDGGlkZW50aXR5LGlkZW50aXR5X3Blb3BsZdIDGzExLjYg5LiH5pKt5pS+IMK3IDQ0IOi1nuWQjNgDAJICIAoJNDk4MDQ2MzAzEgoyNTczNzg1MTg1GAQiBVZJREVP",
+            "actors": [
+                {
+                    "id": "19550228",
+                    "type": "topic",
+                    "url": "https://www.zhihu.com/topic/19550228/hot",
+                    "avatar_url": "https://pic4.zhimg.com/50/e82bab09c_s.jpg",
+                    "name": "随便看看",
+                    "excerpt": "",
+                    "introduction": ""
+                }
+            ],
+            "show_actor_time": false,
+            "action_text": "随便看看",
+            "action_text_tpl": "热门内容, 来自: {}",
+            "action_card": false
+        },
+        {
+            "id": "25_1658094305.699",
+            "type": "feed",
+            "offset": 25,
+            "verb": "TOPIC_ACKNOWLEDGED_ANSWER",
+            "created_time": 1658094305,
+            "updated_time": 1658094305,
+            "target": {
+                "id": 2496375546,
+                "type": "answer",
+                "url": "https://api.zhihu.com/answers/2496375546",
+                "author": {
+                    "id": "92231de9dec52f804615eb3eeafdd318",
+                    "type": "people",
+                    "url": "https://api.zhihu.com/people/92231de9dec52f804615eb3eeafdd318",
+                    "user_type": "people",
+                    "url_token": "wo-wo-wo-94-91",
+                    "name": "我被诈骗了",
+                    "headline": "",
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-f94ed436cb92eb0b321f3065b5e8743e_m.jpg",
+                    "is_org": false,
+                    "gender": 0,
+                    "badge": [],
+                    "followers_count": 158,
+                    "is_following": false,
+                    "is_followed": false
+                },
+                "created_time": 1653197436,
+                "updated_time": 1653197436,
+                "voteup_count": 475,
+                "thanks_count": 143,
+                "comment_count": 904,
+                "is_copyable": true,
+                "question": {
+                    "id": 433038136,
+                    "type": "question",
+                    "url": "https://api.zhihu.com/questions/433038136",
+                    "author": {
+                        "id": "bd472235714f5d7e35d45950ec7275ad",
+                        "type": "people",
+                        "url": "https://api.zhihu.com/people/bd472235714f5d7e35d45950ec7275ad",
+                        "user_type": "people",
+                        "url_token": "sha-mo-lang-29",
+                        "name": "沙漠",
+                        "headline": "",
+                        "avatar_url": "https://pic1.zhimg.com/50/48db4e708aa59cd567ab6ac397ffaf00_m.jpg",
+                        "is_org": false,
+                        "gender": 0,
+                        "badge": [],
+                        "followers_count": 2,
+                        "is_following": false,
+                        "is_followed": false
+                    },
+                    "title": "今年大家有多少人被诈骗了？我刚被诈骗，哎！？",
+                    "created": 1606912786,
+                    "answer_count": 473,
+                    "follower_count": 781,
+                    "comment_count": 14,
+                    "bound_topic_ids": [
+                        12741,
+                        106515,
+                        199046
+                    ],
+                    "is_following": false,
+                    "excerpt": "",
+                    "relationship": {
+                        "is_author": false
+                    },
+                    "detail": "",
+                    "question_type": "normal"
+                },
+                "thumbnail": "https://pic2.zhimg.com/50/v2-833aa6d3e7dc596641f7fdf6c708b972_hd.jpg",
+                "excerpt": "我是2022年4月6号被诈骗8.9万，我给大家讲下被诈骗的过程，希望大家看到不要像我一样被诈骗了，疫情这几年本身大家日子都过得不是很好，结果被诈骗，想想就来气，4月5号那天，我想往常一样正在上班，中午时候，被我微信里的一个好友拉进一个群，我还特地看看是谁拉我进的群，这个人我是记住了，过了一会群里就有人发红包了，我呢刚好也没事，就抢了一下，抢了个3快多，这时候群主就说话了，这是个公益群，大家帮助做公益，免费的…",
+                "excerpt_new": "我是2022年4月6号被诈骗8.9万，我给大家讲下被诈骗的过程，希望大家看到不要像我一样被诈骗了，疫情这几年本身大家日子都过得不是很好，结果被诈骗，想想就来气，4月5号那天，我想往常一样正在上班，中午时候，被我微信里的一个好友拉进一个群，我还特地看看是谁拉我进的群，这个人我是记住了，过了一会群里就有人发红包了，我呢刚好也没事，就抢了一下，抢了个3快多，这时候群主就说话了，这是个公益群，大家帮助做公益，免费的…",
+                "preview_type": "default",
+                "preview_text": "",
+                "reshipment_settings": "allowed",
+                "content": "<p data-pid=\"Y2QqFVFm\">我是2022年4月6号被诈骗8.9万，我给大家讲下被诈骗的过程，希望大家看到不要像我一样被诈骗了，疫情这几年本身大家日子都过得不是很好，结果被诈骗，想想就来气，4月5号那天，我想往常一样正在上班，中午时候，被我微信里的一个好友拉进一个群，我还特地看看是谁拉我进的群，这个人我是记住了，过了一会群里就有人发红包了，我呢刚好也没事，就抢了一下，抢了个3快多，这时候群主就说话了，这是个公益群，大家帮助做公益，免费的，每天都有200-300的收入进账，我也好奇，也不知道怎么弄，于是群主说，大家微信做容易被监控到，然后发了个网址发到群里，然后说要浏览器下载，于是我也去下载了，那个App叫聊聊，这时候呢那个群主说下载好了截图，可以领6.88红包，于是我也截图了，红包也领到了，过了一会，群里有人说，因为做公益，大家不可以互相加好友，请把微信设置，添加我的方式群聊那里关掉，我也照做了，然后群里又有人说下载好聊聊App的，登录输入邀请码进去添加一个老师，然后找老师做公益任务，于是我也就真正的开始慢慢上套了，第一个任务到第十个任务都是浏览微信里做公益的人的一些视频号，然后截图给他们，我也陆陆续续赚了100多佣金，然后到了第11单，骗子说，加一个带单老师的号，他会带大家做的，那个老师加上以后说我这里是联单，收益高些，然后就发了一个网址，叫我们浏览器登录进去，里面我一看都是一些平时我们见到的一些品牌店，看下图</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/50/v2-ebe36088c8ae450b80e6658f0c554af1_720w.jpg?source=1940ef5c\" data-rawwidth=\"1080\" data-rawheight=\"2376\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-ebe36088c8ae450b80e6658f0c554af1_r.jpg?source=1940ef5c\"/></figure><p data-pid=\"xNN3aSs-\">就是这种东西，进去之后带单老师说大家要好好做，收益最高，先投资进去帮商家充公益任务，10分钟回款，收益有百分之30.于是我选了个最低的转了100多块钱到骗子指定的卡号，然后那个骗子说选单，下面输入多少积分，就这样过了一会，积分那里是涨了，就这样连续做了两单，老师说可以提现了，我选择提现，结果过一会钱到账了，我一算确实赚了200多，然后老师说接一下去就是浏览公益视频号，就这样我听了他们的话，做满了21条任务，算下来赚了将近400块，其实这时候我也想过是不是骗子，然后老师说大家做完了，今天就结束了，明天10点大家继续，然后我一看那聊聊那个群里都是禁言的，然后我也设置了闹钟，怕第二天错过了任务，到了第二天也就是我被骗的4月6号，快到了10点时候，我都没做任务，又收到几块钱红包，然后老师在微信群里说，大家进聊聊，我也就进去了，那个骗子说今天跟昨天一样，浏览公益视频号，然后就这样1到第10单我就做了，也赚了100多，到了第11单，带单那个骗子说今天收益比昨天大，大家可以多赚点，这是我又被拉入一个小群，加我只有6个人，这时候那个大群有人说，是不是联单，这时候那个大群里有托就说联单那是给运气好的人的，这时候那个骗子老师就在我们小群里说，你们几个今天运气好有联单做，你们今天赚多了，我也不知道联单啥意思，以为他们没单子做，就我们几个有，其实那里面除了我是被宰的羔羊，那些都是骗子的拖。下面就是我一步步被诈骗套路进去的时候了，第一单老师说三个档次1000.2000.4000，我其实也怕诈骗，我想想昨天已经赚了点，试下1000的好了，如果不能提现就算了，然后我转入1000到骗子提供的银行卡上，然后截图发群里，群里那些拖就说转了，这时候有个托就说，我闺蜜做了半年了，赚了几十万，我当时也不知道怎么搞的，迷失了自我，我其中也想过是不是诈骗，哪有这么好的事，然后老师说做完三单你们就可以提现，然后我又做了第二单，转到骗子提供的卡5000.其实这时候我收手就好了，脑子里早就忘了我之前自己所想的话了，根本已经不由着自己了，然后骗子第三单转入28000或者48000或者68000，转的多收益越多，就这样我就照做了第三单，转了28000，我还是选择最小的，结果我问那个骗子老师我能提现了吗，结果他说你们怎么搞的，你们怎么有人转48000.68000的，数据不统一获取不到，我怎么带你们赚钱呢，然后我就说了，那怎么办，骗子说我去问问，然后截个图过来说，你们要统一，后来群里那些托说我们都是68000的，我一想只有我是28000的，我为了能赶紧提现，其实我也怀疑那个骗子没说清楚，我仔细看了又看，又想薄一博，然后我又套花呗套了40000，然后转了骗子提供的卡上，然后过了一会我说能提现了吧，骗子说稍等，过了一会儿，骗子你们数据又错了，这时候那个骗子还发火，怎么搞的你们，你们是猪吗，叫你们统一还没统一，这时候有托就说了老师对不起，我们错了，这时候我也觉得我没做错，怎么老是出错呢，这时候骗子又说我去走后门给你们安排出款，然后又一个截图过来我一看又是15000.100000.180000，他说这单是出款单，你们转来以后然后到那个网址那里也就是我已上截图那页，点单，下面输入多少，为了我想拿回之前投进去的钱，我照做了，我说大家都转个最低的15000好了，他们都说好，然后我就转了15000到骗子提供卡上，结果过了一会我问骗子可以提现了吧，骗子老师说，稍等，他说你们怎么搞的，现在商家说翻脸了不行了，你们转账多次不统一，不能提现，这时候我已经意识到不对了，一下子突然醒了一样，肯定被诈骗了，我立马报警，这是候派出所立马给我转到反诈冻结我转入的卡号，结果这时候骗子叫我转18万，我就拖着骗子，说在愁钱，过了一个多小时骗子看我没转过去，把我踢出群了，这个聊聊App我也登录不上去了，那个网址我在登也登录不上了，就这样被死骗子诈骗了8.9万，说到这里我总结了一下，为什么明明心中存在疑惑，怕遇到诈骗，期间我也想过是不是诈骗，可结果脑子里没控住自己。没想到还是被套路进去诈骗了，后来百度一查能追回钱吗，结果来到了知乎，看到这么多人被诈骗，心里真的很难受 ，希望大家看到我的文章，不要被骗子诈骗了，诈骗犯是没有人性的，希望这次诈骗，能换来我的病痛，把病痛降在骗子身上，她们花了我们的钱，我想我们的病痛应该由它们来替我们担着。</p>",
+                "mark_infos": [],
+                "relationship": {
+                    "is_thanked": false,
+                    "is_nothelp": false,
+                    "voting": 0,
+                    "upvoted_followee_ids": []
+                },
+                "is_labeled": false,
+                "visited_count": 123491,
+                "thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-833aa6d3e7dc596641f7fdf6c708b972_hd.jpg"
+                ],
+                "creation_relationship": {},
+                "favorite_count": 256
+            },
+            "brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 2496375546}",
+            "uninterest_reasons": [
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19588459",
+                    "object_type": "topic",
+                    "reason_text": "诈骗"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "20138312",
+                    "object_type": "topic",
+                    "reason_text": "电信网络诈骗"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19863463",
+                    "object_type": "topic",
+                    "reason_text": "网络诈骗"
+                },
+                {
+                    "reason_id": 2,
+                    "reason_type": "creator",
+                    "object_token": "92231de9dec52f804615eb3eeafdd318",
+                    "object_type": "people",
+                    "reason_text": "我被诈骗了创作的内容"
+                }
+            ],
+            "attached_info": "CrYDCO/q19urtqO9jQEQBBoJNDgzOTcwNDM2IPyUp5QGKNsDMIgHQBlKHAoTVFNfU09VUkNFX0ZFRURSRV9WMhIBMBgAIABKKAofVFNfU09VUkNFX05FV0JJRV9URVhUX1RXT19UT1dFUhIBMBgAIABaCDU4NTA5NzI5YiBiMDJhMjY3YjBlMzMyM2I4NzZlOTk5OTlmZWVkN2ExOXIKMjQ5NjM3NTU0NooBCTQzMzAzODEzNqoBCXJlY29tbWVuZPIBBQgLEgE18gEKCAwSBk5vcm1hbPIBKAgKEiQ4Mzg4NDBmMS1iMzlmLTRhMzItYmFjOC1mOGE5MTBlY2U5MjCIAo6A/fCgMJICIDkyMjMxZGU5ZGVjNTJmODA0NjE1ZWIzZWVhZmRkMzE4mgIAygIOQ3VycmVuY3lSYW5rZXLaAhNUU19TT1VSQ0VfRkVFRFJFX1Yy6AIC+gILTk9STUFMX0ZMT1eKAyBjZjM1NTM5MWE0OWE0NmVlOWY4YTNhYmI5ZmY5NzE1NpoDBgoCdjIQAKgD48QHwgMA0gMYNDc1IOi1nuWQjCDCtyA5MDQg6K+E6K662AMAkgIlCgk0ODM5NzA0MzYSCjI0OTYzNzU1NDYYBCIKSU1BR0VfVEVYVA==",
+            "actors": [
+                {
+                    "id": "19550228",
+                    "type": "topic",
+                    "url": "https://www.zhihu.com/topic/19550228/hot",
+                    "avatar_url": "https://pic4.zhimg.com/50/e82bab09c_s.jpg",
+                    "name": "随便看看",
+                    "excerpt": "",
+                    "introduction": ""
+                }
+            ],
+            "show_actor_time": false,
+            "action_text": "随便看看",
+            "action_text_tpl": "热门内容, 来自: {}",
+            "action_card": false
+        },
+        {
+            "id": "26_1658094305.476",
+            "type": "feed",
+            "offset": 26,
+            "verb": "TOPIC_ACKNOWLEDGED_ANSWER",
+            "created_time": 1658094305,
+            "updated_time": 1658094305,
+            "target": {
+                "id": 2575377843,
+                "type": "answer",
+                "url": "https://api.zhihu.com/answers/2575377843",
+                "author": {
+                    "id": "2a4fb9dedbeb6169e1b67c4f6308ee16",
+                    "type": "people",
+                    "url": "https://api.zhihu.com/people/2a4fb9dedbeb6169e1b67c4f6308ee16",
+                    "user_type": "people",
+                    "url_token": "186-12-19",
+                    "name": "行者无疆186",
+                    "headline": "说事道理，明心启智。",
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-80b8a388d359ac42ec1e811eb15fce03_m.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "badge": [],
+                    "followers_count": 3404,
+                    "is_following": false,
+                    "is_followed": false
+                },
+                "created_time": 1657852865,
+                "updated_time": 1657988825,
+                "voteup_count": 912,
+                "thanks_count": 163,
+                "comment_count": 1290,
+                "is_copyable": true,
+                "question": {
+                    "id": 529073403,
+                    "type": "question",
+                    "url": "https://api.zhihu.com/questions/529073403",
+                    "author": {
+                        "id": "92ffdf77e356f01f3ebcc5a28cf7f405",
+                        "type": "people",
+                        "url": "https://api.zhihu.com/people/92ffdf77e356f01f3ebcc5a28cf7f405",
+                        "user_type": "people",
+                        "url_token": "12-7-22-65",
+                        "name": "烟火",
+                        "headline": "",
+                        "avatar_url": "https://pic4.zhimg.com/50/v2-44d0da2a9c6c3aaf66741ac0becad8cc_m.jpg",
+                        "is_org": false,
+                        "gender": 0,
+                        "badge": [],
+                        "followers_count": 3,
+                        "is_following": false,
+                        "is_followed": false
+                    },
+                    "title": "俄罗斯在乌克兰展开特别行动，那些挺俄的是什么人？",
+                    "created": 1650446124,
+                    "answer_count": 333,
+                    "follower_count": 384,
+                    "comment_count": 7,
+                    "bound_topic_ids": [
+                        1070,
+                        30738,
+                        67214,
+                        223276
+                    ],
+                    "is_following": false,
+                    "excerpt": "",
+                    "relationship": {
+                        "is_author": false
+                    },
+                    "detail": "",
+                    "question_type": "normal"
+                },
+                "excerpt": "今天，看了一个国内挺俄人数比例的分布图，发现一个特点，越是落后的地区，挺俄的人数比例越高，最高的省份竟然达到80%多。而发达地区挺俄的比例明显偏低，有的地区仅仅40%多一点。 更有意思的是，国内这种分布状况竟然与世界各国的分布状况高度一致。就是，世界上几乎所有发达国家都挺乌，而挺俄的都是落后的国家，比如：叙利亚、朝鲜、白俄罗斯、厄立特里亚……。 而且，叙利亚与朝鲜已经先后急不可耐地承认了顿涅茨克与卢甘斯…",
+                "excerpt_new": "今天，看了一个国内挺俄人数比例的分布图，发现一个特点，越是落后的地区，挺俄的人数比例越高，最高的省份竟然达到80%多。而发达地区挺俄的比例明显偏低，有的地区仅仅40%多一点。 更有意思的是，国内这种分布状况竟然与世界各国的分布状况高度一致。就是，世界上几乎所有发达国家都挺乌，而挺俄的都是落后的国家，比如：叙利亚、朝鲜、白俄罗斯、厄立特里亚……。 而且，叙利亚与朝鲜已经先后急不可耐地承认了顿涅茨克与卢甘斯…",
+                "preview_type": "default",
+                "preview_text": "",
+                "reshipment_settings": "allowed",
+                "content": "<p data-pid=\"rGvR9UFs\">今天，看了一个国内挺俄人数比例的分布图，发现一个特点，越是落后的地区，挺俄的人数比例越高，最高的省份竟然达到80%多。而发达地区挺俄的比例明显偏低，有的地区仅仅40%多一点。</p><p data-pid=\"PW7eD9I2\">更有意思的是，国内这种分布状况竟然与世界各国的分布状况高度一致。就是，世界上几乎所有发达国家都挺乌，而挺俄的都是落后的国家，比如：叙利亚、朝鲜、白俄罗斯、厄立特里亚……。</p><p data-pid=\"H2wZRoHJ\">而且，叙利亚与朝鲜已经先后急不可耐地承认了顿涅茨克与卢甘斯克的独立。</p><p data-pid=\"Zvv7GM_G\">笔者一直对挺俄的都是些什么人这个问题很感兴趣，所以，特意留意了一下网络上挺乌与挺俄网友的评论发言，也发现了一个特点：就是挺乌的人发言一般都比较文明理智，逻辑思维能力较强，有自己的独立思考，感觉文化素质和生活层次比较高。而挺俄的网友，很多人的评论很不文明很不理智，自己见解少，鹦鹉学舌多，感觉思想比较简单、偏执、狂热（注意啊，这里只是指发自内心地自愿地挺俄或者挺乌，那些因为职业或工作原因，不得不站队、表明立场的，另当别论）。</p><p data-pid=\"COxuBbdG\">这只是笔者的总体粗略感觉。挺乌的人当中也有说话不文明的，挺俄的人中也有素质很高的。只是感觉挺乌的人说话更文明、逻辑性更强一些。这里并没有任何贬低挺俄网友的意思。</p><p data-pid=\"0hMfOMVC\">挺俄也好，挺乌也好，都是个人的自由和权利，也不能以此来判断谁是真爱国还是假爱国，只是爱国的方式不同而已。有的爱得更理智更深沉更考虑国家的长远，有的爱的可能比较直观和肤浅，对现代文明和爱国的理解不是很透彻，甚至把爱国与挺俄捆绑在一起，当成了一回事。当然，不管那种爱国方式，都没必要给对方上纲上线、打棍子、扣帽子。</p><p data-pid=\"IHd_jENe\">但是，笔者还是对挺俄的人群进行了一下粗略分类：</p><p data-pid=\"Wefb_pl_\">一是，既得利益者。就是，这些人在挺俄的过程中确实得到了很大的利益，而且还在不断地带节奏，目的就是维护和扩大自己的利益。但这类人应该是极少数。</p><p data-pid=\"FhE1tcrQ\">二是，跟风者。这些人也许连俄乌冲突的来龙去脉以及北约、华约都不是很清楚，价值观也不是很明确，信息来源单一，只是看着大部分人挺俄，出于朴素的爱国情感，只能理解到什么“唇亡齿寒”这一肤浅层次，根本不能理解只有守道义、讲文明才能给国家带来最长久的利益，就也跟着挺俄。这样的人应该是大多数。</p><p data-pid=\"oDYRSWxs\">三是，生活不如意者。这些人对自己的生活现状不是很满意，觉得自己再努力，凭着现有的社会秩序和规则也很难改变自己的现状，潜意识里就有一种挑战现有秩序和规则、改变自己命运的冲动。虽然即使俄罗斯胜了，也未必给自己带来什么利益，但就是欣赏俄罗斯这种混不吝的敢于挑战既有秩序和规则的劲头儿。这样的人也不担心什么天下大乱甚至盼望天下大乱，以为自己可以在混乱中改变自己不如意的命运。他们甚至有一种仇富心理，总觉得世界不公、社会不公，觉得即使俄罗斯用“煤气罐”把世界毁了也没啥。这样的人应该也不是少数。他们也许意识不到，即使在乱局中，倒霉的还是老百姓。比如，这次俄罗斯由于士兵战损严重，在国内大量招募雇佣兵，虽然给的卢布很多，但是面对的也主要是贫穷落后地区以及罪犯，像莫斯科这样的大城市招募的就很少。归根结底，当炮灰的还是最贫穷的老百姓。老百姓想在混乱中改变命运的几率很小。</p><p data-pid=\"EDC7yIqH\">这是笔者对挺俄人群的粗略分析，可能偏颇很大，只是发布出来供网友们思考交流而已。</p><p data-pid=\"vWmm2HfT\">这世界并不是非黑即白的世界，而是一个复杂多元的世界，虽然道义和文明是人类的共同追求，但是对道义和文明的定义差别很大，追求道义和文明的路径也差别很大。所以，要想看清这世界，还是应该多读书、多思考、多经历、多接受不同的信息、多进行一些逻辑推理、多包容一些不同的见解。</p><p data-pid=\"ZtV66c1r\">孤陋寡闻、不懂逻辑、人云亦云、自欺欺人甚至重利轻义、唯利是图是不可能有前途的。</p><p data-pid=\"FvCAcNuI\">一个人如此，一个民族亦如此。</p>",
+                "mark_infos": [],
+                "relationship": {
+                    "is_thanked": false,
+                    "is_nothelp": false,
+                    "voting": 0,
+                    "upvoted_followee_ids": []
+                },
+                "is_labeled": false,
+                "visited_count": 35708,
+                "creation_relationship": {},
+                "favorite_count": 128
+            },
+            "brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 2575377843}",
+            "uninterest_reasons": [
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19642259",
+                    "object_type": "topic",
+                    "reason_text": "乌克兰"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19553437",
+                    "object_type": "topic",
+                    "reason_text": "台湾"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19751463",
+                    "object_type": "topic",
+                    "reason_text": "中俄"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "20211156",
+                    "object_type": "topic",
+                    "reason_text": "网络战"
+                },
+                {
+                    "reason_id": 2,
+                    "reason_type": "creator",
+                    "object_token": "2a4fb9dedbeb6169e1b67c4f6308ee16",
+                    "object_type": "people",
+                    "reason_text": "行者无疆186 创作的内容"
+                }
+            ],
+            "attached_info": "CrYDCO/q19urtqO9jQEQBBoJNDk4MzM1NzQzIMGnw5YGKJAHMIoKQBpKIgoZVFNfU09VUkNFX0hPVF9ORVdfQ09OVEVOVBIBMRgAIABaCDc5ODUzOTYyYiBiMDJhMjY3YjBlMzMyM2I4NzZlOTk5OTlmZWVkN2ExOXIKMjU3NTM3Nzg0M4oBCTUyOTA3MzQwM6oBCXJlY29tbWVuZPIBBQgLEgE18gEKCAwSBk5vcm1hbPIBKAgKEiQ1NmRkYTFlZi00ODhmLTQwZWYtODRmZi1mZTJhNjAyNjMxYWSIAo6A/fCgMJICIDJhNGZiOWRlZGJlYjYxNjllMWI2N2M0ZjYzMDhlZTE2mgIAygIaSGlnaExldmVsQ3JlYXRvcldlaWdodFJ1bGXKAg5DdXJyZW5jeVJhbmtlctoCGVRTX1NPVVJDRV9IT1RfTkVXX0NPTlRFTlToAgP6AgtOT1JNQUxfRkxPV4oDIGNmMzU1MzkxYTQ5YTQ2ZWU5ZjhhM2FiYjlmZjk3MTU2mgMGCgJ2MhAAqAP8lgLCAwDSAxk5MTIg6LWe5ZCMIMK3IDEyOTAg6K+E6K662AMAkgIlCgk0OTgzMzU3NDMSCjI1NzUzNzc4NDMYBCIKSU1BR0VfVEVYVA==",
+            "actors": [
+                {
+                    "id": "19550228",
+                    "type": "topic",
+                    "url": "https://www.zhihu.com/topic/19550228/hot",
+                    "avatar_url": "https://pic4.zhimg.com/50/e82bab09c_s.jpg",
+                    "name": "随便看看",
+                    "excerpt": "",
+                    "introduction": ""
+                }
+            ],
+            "show_actor_time": false,
+            "action_text": "随便看看",
+            "action_text_tpl": "热门内容, 来自: {}",
+            "action_card": false
+        },
+        {
+            "id": "27_1658094305.528",
+            "type": "feed",
+            "offset": 27,
+            "verb": "TOPIC_ACKNOWLEDGED_ANSWER",
+            "created_time": 1658094305,
+            "updated_time": 1658094305,
+            "target": {
+                "id": 2460261507,
+                "type": "answer",
+                "url": "https://api.zhihu.com/answers/2460261507",
+                "author": {
+                    "id": "8cf2b05d8b46e5770cdff3ec2bca6d09",
+                    "type": "people",
+                    "url": "https://api.zhihu.com/people/8cf2b05d8b46e5770cdff3ec2bca6d09",
+                    "user_type": "people",
+                    "url_token": "xie-orz",
+                    "name": "曝盘一哥",
+                    "headline": "不定期更新资讯，欢迎关注咨询！",
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-c37154a91a352f8d60e776da14441b44_m.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "badge": [],
+                    "followers_count": 342,
+                    "is_following": false,
+                    "is_followed": false
+                },
+                "created_time": 1651051926,
+                "updated_time": 1651051926,
+                "voteup_count": 29,
+                "thanks_count": 4,
+                "comment_count": 11,
+                "is_copyable": true,
+                "question": {
+                    "id": 527112043,
+                    "type": "question",
+                    "url": "https://api.zhihu.com/questions/527112043",
+                    "author": {
+                        "id": "8cce50471139218b5e0e12e762553a4f",
+                        "type": "people",
+                        "url": "https://api.zhihu.com/people/8cce50471139218b5e0e12e762553a4f",
+                        "user_type": "people",
+                        "url_token": "xiang-cai-na-tie-56",
+                        "name": "香菜拿铁",
+                        "headline": "",
+                        "avatar_url": "https://pic3.zhimg.com/50/v2-ece04eee73edd78e2748758887098dec_m.jpg",
+                        "is_org": false,
+                        "gender": 0,
+                        "badge": [],
+                        "followers_count": 0,
+                        "is_following": false,
+                        "is_followed": false
+                    },
+                    "title": "pi币是真的吗?",
+                    "created": 1649582858,
+                    "answer_count": 9,
+                    "follower_count": 10,
+                    "comment_count": 0,
+                    "bound_topic_ids": [
+                        744027,
+                        1324332
+                    ],
+                    "is_following": false,
+                    "excerpt": "",
+                    "relationship": {
+                        "is_author": false
+                    },
+                    "detail": "",
+                    "question_type": "normal"
+                },
+                "thumbnail": "https://pic2.zhimg.com/50/v2-907db637135ce64e8a14e8f4f6e09b96_hd.jpg",
+                "excerpt": "本该早凉的 pi币 ，居然还在中老人群里CX画饼，仍有不少中老年人被忽悠上车。 所谓的“零撸”都只是Pi币为了吸引用户参与的一种套路，等到用户入场后，再以“挖到更多代币获取更多收益”为诱饵，对外售卖算力、诱导用户充值投资等进行割韭菜。你看，其中有不少人已经投资了数百甚至数万元。 关于Pi币（π、派币），网上关于它的曝光其实很多了。新华社、中国证券网、北京商报等都专门大篇幅报道、揭发过Pi币的骗局（大家也可以网…",
+                "excerpt_new": "本该早凉的 pi币 ，居然还在中老人群里CX画饼，仍有不少中老年人被忽悠上车。 所谓的“零撸”都只是Pi币为了吸引用户参与的一种套路，等到用户入场后，再以“挖到更多代币获取更多收益”为诱饵，对外售卖算力、诱导用户充值投资等进行割韭菜。你看，其中有不少人已经投资了数百甚至数万元。 关于Pi币（π、派币），网上关于它的曝光其实很多了。新华社、中国证券网、北京商报等都专门大篇幅报道、揭发过Pi币的骗局（大家也可以网…",
+                "preview_type": "default",
+                "preview_text": "",
+                "reshipment_settings": "allowed",
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pica.zhimg.com/50/v2-7d8e8b37d2ff8928078d179042575673_720w.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1078\" data-rawheight=\"365\" class=\"origin_image zh-lightbox-thumb\" width=\"1078\" data-original=\"https://picx.zhimg.com/v2-7d8e8b37d2ff8928078d179042575673_r.jpg?source=1940ef5c\"/></figure><p data-pid=\"CIOtiq2P\">本该早凉的<u><a href=\"https://link.zhihu.com/?target=https%3A//www.daxinggan.com/tag/23\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">pi币</a></u>，居然还在中老人群里CX画饼，仍有不少中老年人被忽悠上车。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/50/v2-0d6a54ea39932e7cff97ceaf39141f4e_720w.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"908\" data-rawheight=\"811\" class=\"origin_image zh-lightbox-thumb\" width=\"908\" data-original=\"https://pic4.zhimg.com/v2-0d6a54ea39932e7cff97ceaf39141f4e_r.jpg?source=1940ef5c\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"d7LjoBCc\">所谓的“零撸”都只是Pi币为了吸引用户参与的一种套路，等到用户入场后，再以“挖到更多代币获取更多收益”为诱饵，对外售卖算力、诱导用户充值投资等进行割韭菜。你看，其中有不少人已经投资了数百甚至数万元。</p><p data-pid=\"LE5fPnKI\">关于Pi币（π、派币），网上关于它的曝光其实很多了。新华社、中国证券网、北京商报等都专门大篇幅报道、揭发过Pi币的骗局（大家也可以网上搜一搜，再次查看认证下）。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/50/v2-84bf952a01360986c56c4f41ea89a8ca_720w.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"628\" data-rawheight=\"730\" class=\"origin_image zh-lightbox-thumb\" width=\"628\" data-original=\"https://pica.zhimg.com/v2-84bf952a01360986c56c4f41ea89a8ca_r.jpg?source=1940ef5c\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"3Ea78flm\">近日，南通公安也对其进行了通报：警惕派币挖矿存在风险！</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/50/v2-e81b42e562d228baf5ef89ca798bede6_720w.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"591\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-e81b42e562d228baf5ef89ca798bede6_r.jpg?source=1940ef5c\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"95GUpRRB\">警方提醒：警惕通过“拉人头”、“发展下线”获取利益的方式，这类实际为传销的营销风险极大。部分不法分子通过“假推广，真传销”的方式，诱骗客户下载APP及个人信息，而实际上是以传销的形式拉人头，笼络资金后跑路。</p><p data-pid=\"-MFTk4_2\">希望在公安的警示后，沉迷其中的一批人能被劝退。如果不听劝，被骗后才觉悟就迟了！</p><p data-pid=\"y53wD5KJ\">每一次的曝光，都会遭到部分Pi友的谩骂，这次肯定也不例外。为什么说Pi币是骗局，就会被骂呢？原因很简单，Pi币玩家已经被项目方放鸽子三年有余了，谁说这是骗局，等于在告诉他们“之前投资的时间、金钱等都白费了”，他们就会把对项目方不满的怒火直接砸向谁。所以，大部分人是宁愿到最后被事实打的鼻青脸肿，也不愿接受提前的劝告。</p><p data-pid=\"mtO0zeP0\">最近Pi官方在KYC达标上做文章、蹭NFT的热度搞NFT，很明显项目又开始玩套路了。而且，之后的套路还会更多。想要避免被割韭菜，唯一能做的就是远离！<br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/50/v2-b18c8f5ed2a09f9e6d9cfbf4832d752c_720w.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1190\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-b18c8f5ed2a09f9e6d9cfbf4832d752c_r.jpg?source=1940ef5c\"/></figure><p data-pid=\"RER2bSUi\"><br/>通过区块天眼APP曝光栏里还可以看到，<u><a href=\"https://link.zhihu.com/?target=https%3A//www.daxinggan.com/tag/5199\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">WEEK交易所</a></u>最近也出现问题了！</p><p data-pid=\"eCQQ-QNI\">根据用户的曝光，WEEK交易所不断找理由限制提现：</p><p data-pid=\"5C2EQCGL\">（1）很多人被交易所无缘无故列为“高风险用户”，额外提供相关资料才可以提现。</p><p data-pid=\"I0XDsNTY\">（2）有的人冻结账户后，被要求“提币需要入金账户余额所有的三倍以上的入金才能解除风险”，才能提币。<br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/50/v2-3c1ead2231f1410d1d7f9fcad706c96e_720w.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1190\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-3c1ead2231f1410d1d7f9fcad706c96e_r.jpg?source=1940ef5c\"/></figure><p data-pid=\"1nXRpcwb\"><br/>很明显，这就是 WEEK交易所 割韭菜的套路。如果你按照它提出的要求做了之后，后面还有其它套路继续限制你提币，目的就是不让你提币。真遇到这种情况，区块天眼APP建议要及时止损，否则会被骗走更多的钱。</p><p data-pid=\"4_tZU9NE\">像Pi币、 WEEK交易所这样割韭菜的平台还有很多，大家可以自行到区块天眼APP上进行查看，能帮助大家识别出垃圾交易所、黑平台，从而及时远离，避免资金受损。</p>",
+                "mark_infos": [],
+                "relationship": {
+                    "is_thanked": false,
+                    "is_nothelp": false,
+                    "voting": 0,
+                    "upvoted_followee_ids": []
+                },
+                "is_labeled": false,
+                "visited_count": 10647,
+                "thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-907db637135ce64e8a14e8f4f6e09b96_hd.jpg",
+                    "https://pic3.zhimg.com/50/v2-d275e9a3237597d5b6d6526857be793f_hd.jpg",
+                    "https://pic1.zhimg.com/50/v2-5bcf4ac5fd50177a7a5ee025ef7999c2_hd.jpg"
+                ],
+                "creation_relationship": {},
+                "favorite_count": 22
+            },
+            "brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 2460261507}",
+            "uninterest_reasons": [
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "21763534",
+                    "object_type": "topic",
+                    "reason_text": "Pi Network"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "23496487",
+                    "object_type": "topic",
+                    "reason_text": "pi币"
+                },
+                {
+                    "reason_id": 2,
+                    "reason_type": "creator",
+                    "object_token": "8cf2b05d8b46e5770cdff3ec2bca6d09",
+                    "object_type": "people",
+                    "reason_text": "曝盘一哥创作的内容"
+                }
+            ],
+            "attached_info": "Cp8DCO/q19urtqO9jQEQBBoJNDc3NDAzNjMzIJabpJMGKB0wC0AbSigKH1RTX1NPVVJDRV9ORVdCSUVfVEVYVF9UV09fVE9XRVISATAYACAAWgg3OTQxNzgwMmIgYjAyYTI2N2IwZTMzMjNiODc2ZTk5OTk5ZmVlZDdhMTlyCjI0NjAyNjE1MDeKAQk1MjcxMTIwNDOqAQlyZWNvbW1lbmTyAQUICxIBNfIBCggMEgZOb3JtYWzyASgIChIkZGUzZWVhYzQtNWZiZi00ZGQzLWFlZjQtYmZkMTMyMTVlODZiiAKOgP3woDCSAiA4Y2YyYjA1ZDhiNDZlNTc3MGNkZmYzZWMyYmNhNmQwOZoCAMoCDkN1cnJlbmN5UmFua2Vy2gIfVFNfU09VUkNFX05FV0JJRV9URVhUX1RXT19UT1dFUugCAvoCC05PUk1BTF9GTE9XigMgY2YzNTUzOTFhNDlhNDZlZTlmOGEzYWJiOWZmOTcxNTaaAwYKAnYyEACoA5dTwgMA0gMWMjkg6LWe5ZCMIMK3IDIyIOaUtuiXj9gDAJICJQoJNDc3NDAzNjMzEgoyNDYwMjYxNTA3GAQiCklNQUdFX1RFWFQ=",
+            "actors": [
+                {
+                    "id": "19550228",
+                    "type": "topic",
+                    "url": "https://www.zhihu.com/topic/19550228/hot",
+                    "avatar_url": "https://pic4.zhimg.com/50/e82bab09c_s.jpg",
+                    "name": "随便看看",
+                    "excerpt": "",
+                    "introduction": ""
+                }
+            ],
+            "show_actor_time": false,
+            "action_text": "随便看看",
+            "action_text_tpl": "热门内容, 来自: {}",
+            "action_card": false
+        },
+        {
+            "id": "28_1658094305.497",
+            "type": "feed",
+            "offset": 28,
+            "verb": "TOPIC_ACKNOWLEDGED_ANSWER",
+            "created_time": 1658094305,
+            "updated_time": 1658094305,
+            "target": {
+                "id": 2577649757,
+                "type": "answer",
+                "url": "https://api.zhihu.com/answers/2577649757",
+                "author": {
+                    "id": "ef7d5ac0589caeed8f348b55663345ed",
+                    "type": "people",
+                    "url": "https://api.zhihu.com/people/ef7d5ac0589caeed8f348b55663345ed",
+                    "user_type": "people",
+                    "url_token": "ShuiyuWhospeak",
+                    "name": "谁语Whospeak",
+                    "headline": "院线电影评论，精品电影解读",
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-685c2c278553aeb1cf2f4905c0117fd0_m.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "影视领域答主"
+                        },
+                        {
+                            "type": "identity_people",
+                            "description": "影视领域答主",
+                            "topics": [],
+                            "topic_names": [],
+                            "topic_ids": []
+                        }
+                    ],
+                    "followers_count": 13404,
+                    "is_following": false,
+                    "is_followed": false
+                },
+                "created_time": 1657965335,
+                "updated_time": 1657965335,
+                "voteup_count": 106,
+                "thanks_count": 47,
+                "comment_count": 24,
+                "is_copyable": true,
+                "question": {
+                    "id": 347384617,
+                    "type": "question",
+                    "url": "https://api.zhihu.com/questions/347384617",
+                    "author": {
+                        "id": "94cde5bb796ea9bac99ce61f2befd4ad",
+                        "type": "people",
+                        "url": "https://api.zhihu.com/people/94cde5bb796ea9bac99ce61f2befd4ad",
+                        "user_type": "people",
+                        "url_token": "l_hua",
+                        "name": "ifif",
+                        "headline": "",
+                        "avatar_url": "https://pic3.zhimg.com/50/7acafe2420722f59649b590b03509312_m.jpg",
+                        "is_org": false,
+                        "gender": 0,
+                        "badge": [],
+                        "followers_count": 26,
+                        "is_following": false,
+                        "is_followed": false
+                    },
+                    "title": "有没有什么不需动脑子，只需要笑，轻松喜剧电影推荐呢？",
+                    "created": 1569215886,
+                    "answer_count": 16,
+                    "follower_count": 20,
+                    "comment_count": 0,
+                    "bound_topic_ids": [
+                        68,
+                        2191,
+                        3931,
+                        36651,
+                        66999
+                    ],
+                    "is_following": false,
+                    "excerpt": "",
+                    "relationship": {
+                        "is_author": false
+                    },
+                    "detail": "",
+                    "question_type": "normal"
+                },
+                "thumbnail": "https://pic3.zhimg.com/50/v2-505c8cdf17fa6c442c84c14ffa536320_hd.jpg",
+                "thumbnail_extra_info": {
+                    "video_id": "1531685333490442240",
+                    "type": "video",
+                    "url": "https://pic1.zhimg.com/v2-505c8cdf17fa6c442c84c14ffa536320.jpg?source=382ee89a",
+                    "height": 1080,
+                    "width": 1920,
+                    "duration": 950,
+                    "playlist": {
+                        "ld": {
+                            "url": "https://vdn3.vzuu.com/SD/3ba7e35a-04e6-11ed-be74-9a6f3f2673a1-v8_t121-whqMRnPgWp.mp4?disable_local_cache=1&bu=b9ce98d5&c=avc.8.0&f=mp4&expiration=1658097905&auth_key=1658097905-0-0-772d6655815cc321301b5c5ee90ce5e5&v=tx&pu=1513c7c2",
+                            "bitrate": 697,
+                            "duration": 950,
+                            "format": "mp4",
+                            "fps": 24,
+                            "height": 478,
+                            "size": 82897329,
+                            "width": 848
+                        },
+                        "sd": {
+                            "url": "https://vdn3.vzuu.com/SD/3ba7e35a-04e6-11ed-be74-9a6f3f2673a1-v8_t121-whqMRnPgWp.mp4?disable_local_cache=1&bu=b9ce98d5&c=avc.8.0&f=mp4&expiration=1658097905&auth_key=1658097905-0-0-772d6655815cc321301b5c5ee90ce5e5&v=tx&pu=1513c7c2",
+                            "bitrate": 697,
+                            "duration": 950,
+                            "format": "mp4",
+                            "fps": 24,
+                            "height": 478,
+                            "size": 82897329,
+                            "width": 848
+                        },
+                        "hd": {
+                            "url": "https://vdn3.vzuu.com/HD/3ba7e35a-04e6-11ed-be74-9a6f3f2673a1-v8_t121-whqMRnPgWp.mp4?disable_local_cache=1&bu=b9ce98d5&c=avc.8.0&f=mp4&expiration=1658097905&auth_key=1658097905-0-0-544dddd041625d6f1998fc75df9deaa5&v=tx&pu=1513c7c2",
+                            "bitrate": 1145,
+                            "duration": 950,
+                            "format": "mp4",
+                            "fps": 24,
+                            "height": 720,
+                            "size": 136102780,
+                            "width": 1280
+                        }
+                    },
+                    "show_maker_entrance": false
+                },
+                "excerpt": "",
+                "excerpt_new": "",
+                "preview_type": "default",
+                "preview_text": "",
+                "reshipment_settings": "allowed",
+                "content": "",
+                "mark_infos": [],
+                "relationship": {
+                    "is_thanked": false,
+                    "is_nothelp": false,
+                    "voting": 0,
+                    "upvoted_followee_ids": []
+                },
+                "is_labeled": false,
+                "visited_count": 1,
+                "play_count": 108883,
+                "attachment": {
+                    "type": 2,
+                    "is_complete": true,
+                    "parent_content_token": "1531689236839723008",
+                    "split_start": 0,
+                    "parent_title": "一个小村庄，狂虐罗马大军？冒险喜剧片《美丽新世界》",
+                    "parent_play_count": 121911,
+                    "parent_voteup_count": 125
+                },
+                "thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-505c8cdf17fa6c442c84c14ffa536320_hd.jpg"
+                ],
+                "creation_relationship": {
+                    "render_json": "{}"
+                },
+                "favorite_count": 107
+            },
+            "brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 2577649757}",
+            "uninterest_reasons": [
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19659871",
+                    "object_type": "topic",
+                    "reason_text": "爱情电影"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19550429",
+                    "object_type": "topic",
+                    "reason_text": "电影"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19750772",
+                    "object_type": "topic",
+                    "reason_text": "喜剧电影"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19556784",
+                    "object_type": "topic",
+                    "reason_text": "电影推荐"
+                },
+                {
+                    "reason_id": 2,
+                    "reason_type": "creator",
+                    "object_token": "ef7d5ac0589caeed8f348b55663345ed",
+                    "object_type": "people",
+                    "reason_text": "谁语Whospeak 创作的内容"
+                }
+            ],
+            "attached_info": "CtUECO/q19urtqO9jQEQBBoJNDk4NzQ4NDg3IJeWypYGKGowGEAcSiIKGVRTX1NPVVJDRV9IT1RfTkVXX0NPTlRFTlQSATEYACAAWggzOTQ3NDYxMWIgYjAyYTI2N2IwZTMzMjNiODc2ZTk5OTk5ZmVlZDdhMTlogMD+kqH26KAVcgoyNTc3NjQ5NzU3igEJMzQ3Mzg0NjE3qgEJcmVjb21tZW5k8gEFCAsSATXyAQoIDBIGTm9ybWFs8gEoCAoSJGYyZDVkZmNmLTkyNzktNDZlOS05ZGQyLWM4ZmQ5ZGNkOTdjOIgCjoD98KAwkgIgZWY3ZDVhYzA1ODljYWVlZDhmMzQ4YjU1NjYzMzQ1ZWSaAgDKAhVaVmlkZW9MZXZlbFdlaWdodFJ1bGXKAhdadmlkZW9FeHBhbmRXV2VpZ2h0UnVsZcoCG1ZpZGVvTmV0d29ya1NjZW5lV2VpZ2h0UnVsZcoCHlp2aWRlb1VzZXJQZXJmZXJlbmNlV2VpZ2h0UnVsZcoCDkN1cnJlbmN5UmFua2VyygISVmlkZW9Jc29sYXRpb25SdWxl2gIZVFNfU09VUkNFX0hPVF9ORVdfQ09OVEVOVOgCBPoCC05PUk1BTF9GTE9XigMgY2YzNTUzOTFhNDlhNDZlZTlmOGEzYWJiOWZmOTcxNTaaAwYKAnYyEACoAwHCAxLlvbHop4bpoobln5/nrZTkuLvKAxhpZGVudGl0eSxpZGVudGl0eV9wZW9wbGXSAxwxMi4xIOS4h+aSreaUviDCtyAxMDYg6LWe5ZCM2AMAkgIgCgk0OTg3NDg0ODcSCjI1Nzc2NDk3NTcYBCIFVklERU8=",
+            "actors": [
+                {
+                    "id": "19550228",
+                    "type": "topic",
+                    "url": "https://www.zhihu.com/topic/19550228/hot",
+                    "avatar_url": "https://pic4.zhimg.com/50/e82bab09c_s.jpg",
+                    "name": "随便看看",
+                    "excerpt": "",
+                    "introduction": ""
+                }
+            ],
+            "show_actor_time": false,
+            "action_text": "随便看看",
+            "action_text_tpl": "热门内容, 来自: {}",
+            "action_card": false
+        },
+        {
+            "id": "29_1658094305.676",
+            "type": "feed",
+            "offset": 29,
+            "verb": "TOPIC_ACKNOWLEDGED_ANSWER",
+            "created_time": 1658094305,
+            "updated_time": 1658094305,
+            "target": {
+                "id": 2568783457,
+                "type": "answer",
+                "url": "https://api.zhihu.com/answers/2568783457",
+                "author": {
+                    "id": "615a0b963c451262fcb8a6e19b0fc96e",
+                    "type": "people",
+                    "url": "https://api.zhihu.com/people/615a0b963c451262fcb8a6e19b0fc96e",
+                    "user_type": "people",
+                    "url_token": "qing-yi-bi-ji",
+                    "name": "伯渔的职场江湖",
+                    "headline": "公众号：伯渔的职场江湖，关注即送《职场升迁秘籍》《送礼绝学》",
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-3bbfd0e078a1754a39931262b7a5d53c_m.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "badge": [],
+                    "followers_count": 36547,
+                    "is_following": false,
+                    "is_followed": false
+                },
+                "created_time": 1657511717,
+                "updated_time": 1657511717,
+                "voteup_count": 794,
+                "thanks_count": 618,
+                "comment_count": 31,
+                "is_copyable": false,
+                "question": {
+                    "id": 531624981,
+                    "type": "question",
+                    "url": "https://api.zhihu.com/questions/531624981",
+                    "author": {
+                        "id": "5977e5cf46691f880bc5956a8a5ab19b",
+                        "type": "people",
+                        "url": "https://api.zhihu.com/people/5977e5cf46691f880bc5956a8a5ab19b",
+                        "user_type": "people",
+                        "url_token": "tong-tong-88-45-21",
+                        "name": "彤彤",
+                        "headline": "专注思维智慧、情感、成长",
+                        "avatar_url": "https://pic3.zhimg.com/50/v2-7e0769f4df64dd8e6580a725d9f47c03_m.jpg",
+                        "is_org": false,
+                        "gender": 0,
+                        "badge": [],
+                        "followers_count": 1693,
+                        "is_following": false,
+                        "is_followed": false
+                    },
+                    "title": "一定要学会哪些人情世故？",
+                    "created": 1651825689,
+                    "answer_count": 157,
+                    "follower_count": 904,
+                    "comment_count": 1,
+                    "bound_topic_ids": [
+                        3946,
+                        4467,
+                        16868
+                    ],
+                    "is_following": false,
+                    "excerpt": "",
+                    "relationship": {
+                        "is_author": false
+                    },
+                    "detail": "",
+                    "question_type": "normal"
+                },
+                "excerpt": "1、请领导吃饭，一定要先发消息再打电话，不要只发消息，我们发消息，他可以假装没看见，认为你心不诚，直接打电话，他认为你是个莽子，发消息时一定要说清楚时间地点，什么人参加。 2、把点菜的权利交给领导，等领导点完以后再给服务员说一声，来一个你们饭店最贵的菜，这些要跟服务员事先沟通，好不一定最贵，但一定要有牌面。 3、求人办事的饭局不能请太多的人，最好只有三个人，领导、中间人，还有你。你要想让领导说实话，…",
+                "excerpt_new": "1、请领导吃饭，一定要先发消息再打电话，不要只发消息，我们发消息，他可以假装没看见，认为你心不诚，直接打电话，他认为你是个莽子，发消息时一定要说清楚时间地点，什么人参加。 2、把点菜的权利交给领导，等领导点完以后再给服务员说一声，来一个你们饭店最贵的菜，这些要跟服务员事先沟通，好不一定最贵，但一定要有牌面。 3、求人办事的饭局不能请太多的人，最好只有三个人，领导、中间人，还有你。你要想让领导说实话，…",
+                "preview_type": "default",
+                "preview_text": "",
+                "reshipment_settings": "disallowed",
+                "content": "<p data-pid=\"mEHt9QfT\">1、请领导吃饭，一定要先发消息再打电话，不要只发消息，我们发消息，他可以假装没看见，认为你心不诚，直接打电话，他认为你是个莽子，发消息时一定要说清楚时间地点，什么人参加。</p><p data-pid=\"vC6XNqwO\">2、把点菜的权利交给领导，等领导点完以后再给服务员说一声，来一个你们饭店最贵的菜，这些要跟服务员事先沟通，好不一定最贵，但一定要有牌面。</p><p data-pid=\"-g_cgCiy\">3、求人办事的饭局不能请太多的人，最好只有三个人，领导、中间人，还有你。你要想让领导说实话，就不能有外人，否则你就是花钱买了个吆喝，啥都办不成。</p><p data-pid=\"VBCrVPK9\">4、要时刻保持比领导更清醒。吃完饭，一定要把领导亲自送回家，去他家的时候一定要带上事先准备好的礼物。</p><p data-pid=\"JkszThq7\">5、工作上要喜怒不形于色，若你的情绪总被老板一眼看穿，那你的前途就要重新考虑了。</p><p data-pid=\"lr_E1IlW\">6、你越跟别人客气，别人就越跟你不客气。不卑不亢，主动提出自己的要求，反而可能对自己有利，比如主动跟领导提加薪。</p><p data-pid=\"vVAJbbAb\">7、同事给我们介绍了一个活，我们赚500，你直接给他转300，不要怕吃亏，你放心好了，只要你转了，你天天有活干。就怕你说：改天我请你吃饭，谢谢了。</p><p data-pid=\"9BP61RzO\">改天我请你吃饭，谢谢了，这句话，当事人听了，他就会理解成：你当我是大傻子啊，你说啥我就信啥呀，卑鄙小人，早知道，不给你介绍活了，你等着。</p><p data-pid=\"IxxguRIL\">8、不要去接同事讨论的闲言碎语。有些是为了钓鱼而设的套，如果你去接话，就成了那条鱼。</p><p data-pid=\"TL58vhym\">9、别人帮了你忙，尽量给予实质性的感谢。给他带个早餐、发个红包、点份外卖，都是轻而易举的，但效果比一声「谢谢」要大100倍。</p><p data-pid=\"lHKJ3aAO\">10、平常心接受别人的一些小的分享。比如零食，自己做的甜点或者老家带来的土特产，不要总觉得拿别人的东西不好。别人真诚的分享，你硬是拒绝的话会让他很尴尬。</p><p data-pid=\"DqiV5iJO\">11、别和层次不同的人纠缠，比如一个人和猪吵架：如果赢了只能证明他比猪还厉害，打个平手他就跟猪一样，输了连猪都不如。</p><p data-pid=\"ntdnbq8A\">12、生气时，请用1%的理性压制99%的怒气。不然犯错的就不是别人，而是你自己了。发生冲突时，不要被情绪冲昏头脑，学会用理性维持公正，宁与聪明人装傻，也别跟傻子正经。</p><p data-pid=\"g5lJ-F1l\">13、让别人帮你一些力所能及的小忙，能让关系升温。</p><p data-pid=\"Sl0INkm9\">刚进入一个新环境，彼此都不认识，为了打破尴尬，你可以向身边人借笔、请教、问地址，这些事情都很细小，但却能给助人者带来很好的「自我认同感」，顺其自然就会对求助者产生好感。</p><p data-pid=\"eT7row2C\">14、可以待人礼貌，但不要一副看起来「好欺负」的样子。</p><p data-pid=\"HubZs_mH\">来者不拒的帮忙、卑躬屈膝的姿态、毫无底线的跪舔，都会让你的生活一地鸡毛。</p><p data-pid=\"q7NywUgk\">15、不事后补刀。不要说“当初听我的”、“我就说嘛”这类风凉话，虽然说出来很爽，但无疑是给当事人的伤口撒盐，要么安慰ta，要么给ta提供帮助。</p><p data-pid=\"RIkrhVwz\">16、在你困难时借你钱的人，还钱时最好表示一下，要么补贴点当利息，要么请对方吃顿饭，要知道，他本可以不借的。</p><p data-pid=\"2Wtkdyfw\">17、再有理的话，也要「包装」一下才能出口。道理是冷冰冰的，人是有感情的，我们说话要先照顾别人的感受，抚平他的情绪，他才能听得进你的话。</p><p data-pid=\"lJzrsPgb\">18、 语气不肯定，就是拒绝。</p><p data-pid=\"rfmh5Xd4\">饭桌上说“要不我来买单吧?”的人，一定在等别人买单。真正想请客的人，中途就已经去结账了。同样的意思还有：要不我送你回家吧、要不住两天再走吧。</p><p data-pid=\"k-s32fHf\">19、少说反问句：“不然你以为呢?”、“我怎么知道?”、“听明白没?”，说这些话时或许别无他意，但其实伤人又伤心，负作用非常大。生活中能用陈述句就不用反问句，80%的反问都是拿来终结话题的大杀器。</p><p data-pid=\"aioRr5-I\">20、借别人的东西，一定要维护好再还。</p><p data-pid=\"6MjiWmFo\">21、不要总想着去攀附别人，当你自身实力强大的时候，别人自然会围绕你来转。</p><p data-pid=\"8Yive18M\">22、打断别人说话很不礼貌，但如果你说话经常被打断，可以反思下自己废话是不是太多了。</p><p data-pid=\"KD3QAYz9\">23、千万不要为了一昧取悦他人而自我牺牲，真正的友谊情感根本不需要刻意维持。</p><p data-pid=\"xoz8t-Wd\">24、懂你的人，不必解释；不懂你的人，解释了也没用。立场对立，怎么解释都没用。</p><p data-pid=\"p4MYrfo7\">25、听别人说话，要看他为什么这么说。有时别人嘴上夸赞你并不是真的在夸你，也许他们是用善意的方式在提醒你，甚至是嘲讽你。面对复杂的人际关系，能读懂别人暗示是你的保命符。</p><p data-pid=\"gaUgvv56\">26、你不是出气筒，没必要给别人出气。忍耐终究有个限度，该出手时就出手，千万别被踩踏了底线还傻傻地无动于衷。</p><p data-pid=\"4S4PC4Fr\">27、合不来的人，赶紧远离。强求合群，假笑面对，不仅委屈自己，还浪费时间。靠假意逢和得来的关系往往摇摇欲坠，靠真诚打动得来的人际才会固若金汤。</p><p data-pid=\"LQVOs38a\"><b>欢迎关注我的公众号【伯渔的职场江湖】分享给你《职场经典案例108问》《送礼宝典》</b></p><p data-pid=\"tE0E_-1U\"><b>国企工作多年，喜研究人性、职场潜规则、人情世故、送礼技巧，欢迎志同道合的朋友一起交流学习，共同进步！</b></p>",
+                "mark_infos": [],
+                "relationship": {
+                    "is_thanked": false,
+                    "is_nothelp": false,
+                    "voting": 0,
+                    "upvoted_followee_ids": []
+                },
+                "is_labeled": false,
+                "visited_count": 101980,
+                "creation_relationship": {},
+                "favorite_count": 2083
+            },
+            "brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 2568783457}",
+            "uninterest_reasons": [
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19600691",
+                    "object_type": "topic",
+                    "reason_text": "为人处世"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19562033",
+                    "object_type": "topic",
+                    "reason_text": "人际交往"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19563676",
+                    "object_type": "topic",
+                    "reason_text": "情商"
+                },
+                {
+                    "reason_id": 2,
+                    "reason_type": "creator",
+                    "object_token": "615a0b963c451262fcb8a6e19b0fc96e",
+                    "object_type": "people",
+                    "reason_text": "伯渔的职场江湖创作的内容"
+                }
+            ],
+            "attached_info": "CpkECO/q19urtqO9jQEQBBoJNDk3MTM2ODE5IKW+rpYGKJoGMB9AHUocChNUU19TT1VSQ0VfRkVFRFJFX1YyEgEwGAAgAEooCh9UU19TT1VSQ0VfTkVXQklFX1RFWFRfVFdPX1RPV0VSEgEwGAAgAFoIODA0MjA5MDNiIGIwMmEyNjdiMGUzMzIzYjg3NmU5OTk5OWZlZWQ3YTE5cgoyNTY4NzgzNDU3igEJNTMxNjI0OTgxqgEJcmVjb21tZW5k8gEFCAsSATXyAQoIDBIGTm9ybWFs8gEoCAoSJDBmZWY1ODRjLWZlMjMtNDZlYy04YjcyLWE4YTVlMjY2ZGY3YogCjoD98KAwkgIgNjE1YTBiOTYzYzQ1MTI2MmZjYjhhNmUxOWIwZmM5NmWaAgDKAh9RdWVzdGlvblJlcGV0aXRpb25OZXdXZWlnaHRSdWxlygIaSGlnaExldmVsQ3JlYXRvcldlaWdodFJ1bGXKAg5DdXJyZW5jeVJhbmtlctoCE1RTX1NPVVJDRV9GRUVEUkVfVjLoAgP6AgtOT1JNQUxfRkxPV4oDIGNmMzU1MzkxYTQ5YTQ2ZWU5ZjhhM2FiYjlmZjk3MTU2mgMGCgJ2MhAAqAPcnAbCAyRUQSDojrflvpfkuobotoXov4cgMTYuNCDkuIfkuKrotZ7lkIzSAxk3OTQg6LWe5ZCMIMK3IDIwODMg5pS26JeP2AMAkgIlCgk0OTcxMzY4MTkSCjI1Njg3ODM0NTcYBCIKSU1BR0VfVEVYVA==",
+            "actors": [
+                {
+                    "id": "19550228",
+                    "type": "topic",
+                    "url": "https://www.zhihu.com/topic/19550228/hot",
+                    "avatar_url": "https://pic4.zhimg.com/50/e82bab09c_s.jpg",
+                    "name": "随便看看",
+                    "excerpt": "",
+                    "introduction": ""
+                }
+            ],
+            "show_actor_time": false,
+            "action_text": "随便看看",
+            "action_text_tpl": "热门内容, 来自: {}",
+            "action_card": false
+        }
+    ],
+    "paging": {
+        "previous": "https://www.zhihu.com/api/v3/feed/topstory/recommend?session_token=b02a267b0e3323b876e99999feed7a19&desktop=true&page_number=6&limit=6&action=pull&ad_interval=-10&before_id=29",
+        "next": "https://www.zhihu.com/api/v3/feed/topstory/recommend?session_token=b02a267b0e3323b876e99999feed7a19&desktop=true&page_number=6&limit=6&action=down&after_id=29&ad_interval=-10",
+        "is_end": false
+    },
+    "fresh_text": "关注动态已更新"
+}
