@@ -1,7 +1,8 @@
+import requests
+url = 'https://nm.zsks.cn/22gkwb/gktj_22_41_20/data/tjyx.json'
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36'
+}
 
-'''
-知乎推荐的内容的评论
-20~30条说说
-都写入到文件内 txt文件
-
-'''
+con = requests.get(url,headers=headers).json()
+print(con)
