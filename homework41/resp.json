@@ -1,0 +1,907 @@
+{
+    "data": [
+        {
+            "id": "12_1659755969.68",
+            "type": "feed",
+            "offset": 12,
+            "verb": "TOPIC_ACKNOWLEDGED_ANSWER",
+            "created_time": 1659755969,
+            "updated_time": 1659755969,
+            "target": {
+                "id": 2611447470,
+                "type": "answer",
+                "url": "https://api.zhihu.com/answers/2611447470",
+                "author": {
+                    "id": "3c0f4d9c8d3968cc67f0e2aa1c3dca8d",
+                    "type": "people",
+                    "url": "https://api.zhihu.com/people/3c0f4d9c8d3968cc67f0e2aa1c3dca8d",
+                    "user_type": "people",
+                    "url_token": "bo-er-de-ren",
+                    "name": "军事魔士",
+                    "headline": "能写会画的军事历史战争博主~~微博公众号同名哦！",
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-ad7736b1f6f32bf875d21f961ba92971_m.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "badge": [],
+                    "followers_count": 39520,
+                    "is_following": false,
+                    "is_followed": false
+                },
+                "created_time": 1659687382,
+                "updated_time": 1659687382,
+                "voteup_count": 142,
+                "thanks_count": 29,
+                "comment_count": 9,
+                "is_copyable": true,
+                "question": {
+                    "id": 546947728,
+                    "type": "question",
+                    "url": "https://api.zhihu.com/questions/546947728",
+                    "author": {
+                        "id": "0f266fddf1315d97c652161dd58de5e1",
+                        "type": "people",
+                        "url": "https://api.zhihu.com/people/0f266fddf1315d97c652161dd58de5e1",
+                        "user_type": "organization",
+                        "url_token": "guan-cha-zhe-wang-31",
+                        "name": "观察者网",
+                        "headline": "中国关怀 全球视野",
+                        "avatar_url": "https://pic1.zhimg.com/50/v2-bee337c97796fae3dc71c0ea42ddc57e_m.jpg",
+                        "is_org": true,
+                        "gender": 0,
+                        "badge": [],
+                        "followers_count": 831804,
+                        "is_following": false,
+                        "is_followed": false
+                    },
+                    "title": "台媒称解放军台海军演区域扩大至 7 处、时间延长至 8 日，有哪些信息值得关注？",
+                    "created": 1659599730,
+                    "answer_count": 1024,
+                    "follower_count": 2240,
+                    "comment_count": 98,
+                    "bound_topic_ids": [
+                        400,
+                        1070,
+                        1234,
+                        12230,
+                        174003
+                    ],
+                    "is_following": false,
+                    "excerpt": "",
+                    "relationship": {
+                        "is_author": false
+                    },
+                    "detail": "",
+                    "question_type": "normal"
+                },
+                "thumbnail": "https://pic4.zhimg.com/50/v2-ce63977a52c339e7b9d5c05f1e059360_hd.jpg",
+                "excerpt": "美械国军到底能打不能打？乌克兰泥潭不会重现！ 执笔：军事魔士——一个喜欢军事战争历史的漫画仔现在各路都在狂聊咱们军演步步为营得到的好处，这事已经显而易见，我就不再凑上去做重复运动了。毕竟——咱们得往后看，军演之后，大家最关心的问题就来了。蛙岛的军备如何？咱们会不会和俄罗斯那样打成一团泥潭？咱们就来扒一扒，美械国军到底是个啥样的造型！ 咱们先剖析军备构成，然后聊战略！ 接下来，故事开讲！ 1 蛙岛空军现…",
+                "excerpt_new": "美械国军到底能打不能打？乌克兰泥潭不会重现！ 执笔：军事魔士——一个喜欢军事战争历史的漫画仔现在各路都在狂聊咱们军演步步为营得到的好处，这事已经显而易见，我就不再凑上去做重复运动了。毕竟——咱们得往后看，军演之后，大家最关心的问题就来了。蛙岛的军备如何？咱们会不会和俄罗斯那样打成一团泥潭？咱们就来扒一扒，美械国军到底是个啥样的造型！ 咱们先剖析军备构成，然后聊战略！ 接下来，故事开讲！ 1 蛙岛空军现…",
+                "preview_type": "default",
+                "preview_text": "",
+                "reshipment_settings": "allowed",
+                "content": "<h2>美械国军到底能打不能打？乌克兰泥潭不会重现！</h2><p data-pid=\"rb17rDrK\"><b>执笔：军事魔士——一个喜欢军事战争历史的漫画仔</b></p><p data-pid=\"d3lVaDbP\">现在各路都在狂聊咱们军演步步为营得到的好处，这事已经显而易见，我就不再凑上去做重复运动了。毕竟——咱们得往后看，军演之后，大家最关心的问题就来了。蛙岛的军备如何？咱们会不会和俄罗斯那样打成一团泥潭？咱们就来扒一扒，美械国军到底是个啥样的造型！</p><p data-pid=\"tFo1LpSR\">咱们先剖析军备构成，然后聊战略！</p><p data-pid=\"HHrlhLTq\">接下来，故事开讲！</p><h2>1 蛙岛空军</h2><p data-pid=\"4ijN9yKU\">现代战争，第一步是争夺太空权，第二步才会争夺制空权。</p><p data-pid=\"-htqW3Sd\">不过蛙岛的情报可以靠美丽国的卫星系统，咱们也不能直接把美丽国的卫星搂下来，所以太空争夺权只能是僵持，双方都有。</p><p data-pid=\"U079uVFb\">制空权的争夺就有意思了。</p><p data-pid=\"j3NswLtC\">蛙岛空军3.5万人，拥有6架E-2K预警机 、12架P-3C海上巡逻机 、1架C-130H电子战机、2架侦察机、289架作战飞机。</p><p data-pid=\"OpWLMmbM\">其实电子战机和预警机才是蛙岛空军能不能有战斗力的空军CPU，因为现在争夺制空权，早已经不是靠战斗部去和对面疯狂撕扯的年代。战争，打得是体系，电子战首当其冲！</p><p data-pid=\"jY_OF-3V\">什么是电子战，就是飞机挂着电子吊舱，搜寻到对方的雷达信号，然后模拟出雷达的反射讯号，对着敌方雷达一阵输出。空中明明就一架电子战机，但是敌方雷达上却显示200架战机甚至更多，给敌方的部署造成巨大困扰。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/50/v2-0725843420155917a97ac35da075c726_720w.jpg?source=1940ef5c\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"532\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic3.zhimg.com/v2-0725843420155917a97ac35da075c726_r.jpg?source=1940ef5c\"/><figcaption>台军电子战机</figcaption></figure><p data-pid=\"UQd5C8dY\">1994年美军黄海军演，我们就吃过这个亏。咱们的雷达探测到数百架战机从黄海飞来，还以为是美军要发起总攻，结果我们的战机赶到空域，却一架飞机都没发现。知耻而后勇，咱们也是疯狂磨砺电子战能力，现在用战斗机都能吊着电子舱和对面互殴！J-16除了叫“炸弹卡车”，也是咱们的电子战专家。</p><p data-pid=\"kncpTtLs\">电子对战就是，我们模拟它们的信号发过去，它们再模拟咱们的雷达信号发过来，越模拟越快，功率越来越高，直到一方功率抵不住分出胜负。咱们的电子战机既有战斗机，也有运输机，而蛙军只有1架运输机改造的电子战机。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/50/v2-e9debbd27395a918f2774eccb73a2f27_720w.jpg?source=1940ef5c\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"399\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-e9debbd27395a918f2774eccb73a2f27_r.jpg?source=1940ef5c\"/><figcaption>蛙军E2K预警机</figcaption></figure><p data-pid=\"diZ2mYtL\">预警机本身就是空中雷达，指挥空中作战的。一旦蛙军输了电子战，6架预警机在天上只会觉得四面八方都是战机，就这还指挥个der，要么逃跑，要么挂彩！</p><p data-pid=\"NkPh63NQ\">是的，一旦电子战压倒，对面在战略上已经丧失了体系作战的能力。</p><p data-pid=\"jf3EeoJS\">接下来咱们看空军单体战斗部。</p><figure data-size=\"normal\"><img src=\"https://pica.zhimg.com/50/v2-39492dfd1dbfba0a570d165463c83437_720w.jpg?source=1940ef5c\" data-size=\"normal\" data-rawwidth=\"791\" data-rawheight=\"413\" class=\"origin_image zh-lightbox-thumb\" width=\"791\" data-original=\"https://pic2.zhimg.com/v2-39492dfd1dbfba0a570d165463c83437_r.jpg?source=1940ef5c\"/><figcaption>IDF战机</figcaption></figure><p data-pid=\"mhajBSOQ\">首先登场的蛙军能自行生产的IDF、“经国号”、F-CK-1。好吧这不是三架战机，这是同一战机的三个名字。造型看上去很科幻先进，但实际上战斗力对标咱们的歼8后期型号，连咱们给巴铁量身打造地“枭龙”都比不上。一共装备了103架。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/50/v2-681b08c86ebf7baf8aa83a8d66ad0b07_720w.jpg?source=1940ef5c\" data-size=\"normal\" data-rawwidth=\"1450\" data-rawheight=\"703\" class=\"origin_image zh-lightbox-thumb\" width=\"1450\" data-original=\"https://pic3.zhimg.com/v2-681b08c86ebf7baf8aa83a8d66ad0b07_r.jpg?source=1940ef5c\"/><figcaption>幻影2000战机</figcaption></figure><p data-pid=\"7huhGqek\">然后出场的是蛙军从法兰西引进的46架幻影2000。说实在，当年每次打开军事杂志，看到咱们颜值确实一般的歼7和歼8，再看看幻影2000，那科幻先进的外表让人羡慕地直抠脚。但是转眼间物是人非，蛙军的幻影也服役了20多年了，法国已经把这款飞机给退休了。零件供应到时候在中法的关系下会不会断掉是一回事，这款飞机的战斗力也就牛了那么一下下。</p><p data-pid=\"wIA2ReLF\">刚服役那会儿在国际社会上算是比较先进的多用途轻型三代机，当年把鼻孔牛上了天。现在它还是它，对标咱们的歼10C估计却已经占不到便宜了。况且咱们还有更先进的歼11和歼16，以及<a href=\"https://www.zhihu.com/search?q=%E6%AD%BC20&amp;search_source=Entity&amp;hybrid_search_source=Entity&amp;hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2611439884%7D\" class=\"internal\">歼20</a>。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/50/v2-6375b804a4f0b38e82343698a110dcf6_720w.jpg?source=1940ef5c\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"366\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic1.zhimg.com/v2-6375b804a4f0b38e82343698a110dcf6_r.jpg?source=1940ef5c\"/><figcaption>F16战机</figcaption></figure><p data-pid=\"v9yjv6YI\">然后就是蛙军的空军主力军团——F16A/V，这款飞机是地地道道地美国货。A型号是早期版本，和咱们的歼10A相当。但是千万不要自嗨，F16A出生在20世纪70年代，歼10A出生在90年代末期，时间上差了二三十年。而F16V版本，就是前段时间特意从美丽国调回蛙岛，在夏威夷磕头跪谢的那款飞机，被加装了超视距作战能力。但它终归也只是个三代轻型战机。轻型、中型、重型战机，对标的就是自行车、摩托车和全地形车。</p><p data-pid=\"KXQ4qkN3\">面对咱们的歼11、歼16、歼20这类重型战机，只有双手离开键盘的份。</p><p data-pid=\"sW2LNzaE\">蛙军的部署更有深意，这些空军保持着三线分布的态势。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/50/v2-9604c8d99758a3fca0e75bda21efbc85_720w.jpg?source=1940ef5c\" data-size=\"normal\" data-rawwidth=\"973\" data-rawheight=\"814\" class=\"origin_image zh-lightbox-thumb\" width=\"973\" data-original=\"https://pic2.zhimg.com/v2-9604c8d99758a3fca0e75bda21efbc85_r.jpg?source=1940ef5c\"/><figcaption>蛙岛空军三线分布图</figcaption></figure><p data-pid=\"UKOFzJ4Q\">国军深得次等品用来吸引火力的真传，派在一线澎湖列岛马公地区驻扎送死的就是蛙军三大机型里最次的IDF战机。然后F16大部和幻影这些主力驻扎在二线海岛西岸一侧，等着闻风而动。三线就是蛙岛东岸的两个空军联队，一个是训练飞行员新训联队，一个是掌着七十多架F16的最后力量，躲在反斜面的山洞里。</p><p data-pid=\"lMGHzIKv\">看完空军咱们接着往下看海军⬇⬇⬇</p><h2>2 蛙岛海军</h2><p data-pid=\"owN3eOx3\">其实海战套路差不多，电子战致盲之后，进攻方以压倒性优势在海上搜寻目标，然后干掉目标。蛙军制空权没有之后，还得随时防备着专门针对雷达的反辐射导弹，雷达也不敢开机。雷达不敢开，那和一坨货轮有什么区别，只能等着挨锤。</p><p data-pid=\"98VBLZHf\">所以高科技的战争，打起来真的就是压倒性。这么来看，俄乌战争真的算不上高科技。咱们来看看蛙军海军都有一些什么货！</p><p data-pid=\"S_mJ0yYH\">蛙岛海军有3.8万人兵力，其中海军陆战队9千人。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/50/v2-7ca12930b48d7a3de1c3d69b802d2483_720w.jpg?source=1940ef5c\" data-size=\"normal\" data-rawwidth=\"759\" data-rawheight=\"498\" class=\"origin_image zh-lightbox-thumb\" width=\"759\" data-original=\"https://pic2.zhimg.com/v2-7ca12930b48d7a3de1c3d69b802d2483_r.jpg?source=1940ef5c\"/><figcaption>基德级战舰</figcaption></figure><p data-pid=\"rsr6gyfl\">蛙军最先进的4艘“基隆级”驱逐舰，9800吨排水，综合能力较强。因为这4艘军舰最开始是为伊朗设计的，结果伊朗和美丽国反目成仇，美丽国把它命名成“基德”级装备了十多年，发现这货干啥啥不精，吨位第一名。</p><p data-pid=\"3z48qwCW\">相关的反潜、防空、反舰都有更强的专业战舰，所以尴尬的基德就被强制退役了。2006年，水扁正猖狂，就把这4艘战舰买过来壮声势。但是……这批战舰都是90年代的技术。</p><p data-pid=\"BN055Xa_\">和咱们的新时代服役的次级驱逐舰052D比，除了吨位比较大，技术水平完全划水。和咱们顶级驱逐舰055比，连它母胎最强的阿利伯克驱逐舰也黯然失色。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/50/v2-0d48c052b35d5cf9827a759444105d39_720w.jpg?source=1940ef5c\" data-size=\"normal\" data-rawwidth=\"696\" data-rawheight=\"523\" class=\"origin_image zh-lightbox-thumb\" width=\"696\" data-original=\"https://pic3.zhimg.com/v2-0d48c052b35d5cf9827a759444105d39_r.jpg?source=1940ef5c\"/><figcaption>成功级战舰</figcaption></figure><p data-pid=\"_nIERuCs\">随后是10艘“成功级”护卫舰，单舰排水4100吨，这8艘船是蛙岛拿了美军的授权之后自己生产的。这个战舰的模子原先是美军反潜专业护卫舰“佩里级”，但是蛙岛军方要求这艘战舰不仅反潜还要防空，连垂直发射系统都没有，简直是逼着瘸子玩杂技！</p><p data-pid=\"w1H-8Iix\">最可怕的是，护卫舰的舰体钢材也就30年寿命，这批战舰在2023年就要开始退役了……就算是个次级品，后续也没有了！</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/50/v2-7c1914f3992b3d75471a84a40b9d607a_720w.jpg?source=1940ef5c\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"533\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic3.zhimg.com/v2-7c1914f3992b3d75471a84a40b9d607a_r.jpg?source=1940ef5c\"/><figcaption>康定级战舰，首款隐身设计战舰</figcaption></figure><p data-pid=\"pXnTsHdG\">再然后，是6艘法国货“康定级”护卫舰，排水3600吨。这款战舰原本是法国最先设计出来的全球首款隐身外形护卫舰，代表着时代的潮流。为了忽悠蛙岛购买，法国把牛皮全都吹上了天，高科技武器应有尽有全都装在战舰上。结果由于神秘大国的意见，法国交货的时候只保留了指挥系统，武器全都拆除。</p><p data-pid=\"hlZu89DF\">蛙岛拿着空壳自己装武器，武器系统和法国指挥系统不兼容，愣是把一个自动化战舰玩成了通信指挥操作……通信指挥……所谓通信指挥，就是拿个对讲机告诉操作手往哪锁定往哪打。这是世界第一款隐身战舰，被玩成了二战前线！</p><p data-pid=\"WtbZJUVC\">特别是，蛙军由于没有舰载防空，把陆军的野战防空导弹装上了战舰，射程9公里……这个防空，连咱们1400吨的056护卫舰都不如。</p><p data-pid=\"_7xgykBQ\">这些军舰，在90年代欺负一下咱们的海军确实足够，但是面对2022年的世界第二大海军，蛙军的这批军舰投降能留全尸，抗争必须被分八段。</p><p data-pid=\"7eJk9EEZ\">咱们再接着看蛙岛陆军⬇⬇⬇⬇⬇⬇</p><h2>3 蛙岛陆军</h2><p data-pid=\"2xBS7cAT\">蛙岛陆军算是最大的一批军事力量，足足9.2万人！</p><p data-pid=\"YkpcNmO_\">主要分三个兵团，分别是调查兵团、宪兵团、屯驻兵团，调查兵团外号“自由之翼”……呸呸，跑题了。蛙军三大兵团是第六兵团，第八兵团，第十兵团。</p><p data-pid=\"MhYkdW3a\">蛙军第六军团，外号“前锋部队”，是蛙岛陆军的绝对主力，拥有3.2万人的编制。主要驻扎在蛙岛的北半岛，拱卫台北大脑中枢，防守周边的台北市、新北市、基隆市、桃园市、新竹市、新竹县、苗栗县、宜兰县。</p><p data-pid=\"CE_6KDTT\">第六军团下辖2个装甲旅，1个机步旅，3个步兵旅。每个旅再下辖三个联营，所谓联营，大概和咱们的合成营差不多，注重综合作战能力。</p><figure data-size=\"normal\"><img src=\"https://pica.zhimg.com/50/v2-99fbea9a2c1e5ab4fc54fec36ed29e4f_720w.jpg?source=1940ef5c\" data-size=\"normal\" data-rawwidth=\"543\" data-rawheight=\"369\" class=\"origin_image zh-lightbox-thumb\" width=\"543\" data-original=\"https://pic2.zhimg.com/v2-99fbea9a2c1e5ab4fc54fec36ed29e4f_r.jpg?source=1940ef5c\"/><figcaption>泳池精英</figcaption></figure><p data-pid=\"Myx_4kIz\">蛙军第八军团，外号“干城部队”，别说，国军的这种一套一套的文化底蕴搞得挺足，之前就有常德会战的“虎贲师”，来自《书·牧誓序》：武王戎车三百两，虎贲三百人。后面更多古文献都有出——《周礼·夏官·虎贲氏》：“虎贲氏掌先后王而趋以<a href=\"https://link.zhihu.com/?target=https%3A//baike.baidu.com/item/%25E5%258D%2592%25E4%25BC%258D/2644085\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">卒伍</a>。军旅、会同，亦如之。</p><p data-pid=\"aoX1_Pc3\">《<a href=\"https://link.zhihu.com/?target=https%3A//www.chazidian.com/r_ci_c5b1811d6d79d2e3181357fc2ee90071/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">诗</a>·周南·兔罝》：赳赳武夫，公侯干城。干城，就是捍卫者的意思。</p><p data-pid=\"qqIeLhI0\">“干城部队”拥有1.9万人的编制。主要驻扎在蛙岛的西南岸，防守台南市、高雄和屏东县。台南高雄都是百万级别的大都市，这点人数守大城真的有点难。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/50/v2-6ea68b3c7b005cc734f128d9cab28c6b_720w.jpg?source=1940ef5c\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"365\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic3.zhimg.com/v2-6ea68b3c7b005cc734f128d9cab28c6b_r.jpg?source=1940ef5c\"/><figcaption>水渠精英</figcaption></figure><p data-pid=\"d4lrYEhl\">之前蛙军的坦克四脚朝天卧在水渠憋气憋死了4个蛙军的事件，就是来自第八军团的564装甲旅，外号“少康部队”。如果没错的话，少康好像是夏朝国君的名字。国军还整得文雅的不行！</p><p data-pid=\"v5YcRa_R\">不过，还有比第八军团更难的部队——第十军团！</p><p data-pid=\"n3S7NRCy\">第十军团，外号“昆仑部队”，编制2.3万人。驻防台中市、彰化县、南投县、云林县、嘉义县和嘉义市。这支军队防守的面积最大，兵力布置最为分散，还要负责北上援助第6军团，南下援助第8军团的任务。</p><p data-pid=\"nNLmy80k\">不过第十军团里也有一支响当当的部队——234机步旅，外号“长城部队”。这支部队的前身就是国民革命军第52军25师，曾经在1933年长城抗战中表现出色，所以得了这么个外号。</p><figure data-size=\"normal\"><img src=\"https://pica.zhimg.com/50/v2-922dbd2bba44f6add2a0632d48183c4a_720w.jpg?source=1940ef5c\" data-size=\"normal\" data-rawwidth=\"998\" data-rawheight=\"1007\" class=\"origin_image zh-lightbox-thumb\" width=\"998\" data-original=\"https://pic2.zhimg.com/v2-922dbd2bba44f6add2a0632d48183c4a_r.jpg?source=1940ef5c\"/><figcaption>蛙岛陆军分布图</figcaption></figure><p data-pid=\"Y9CL_ehx\">除了这三个大兵团，剩下的就是一些小部门，零零散散分布在各个边角料防区。</p><p data-pid=\"BtnAJBtd\">陆军这块，基本没啥拿的出手的武器，陆军主要坦克是CM11“勇虎”坦克。这款坦克的前身就是美军的M48“巴顿”坦克，咱们在70年前的抗美援朝中见过，没想到时至今天，我们依旧还能看到巴顿的外孙辈。</p><p data-pid=\"Qch2S8pl\">蛙军可能看见美军都打不过咱们的陆军，对陆军放弃治疗了。用巴顿坦克改进研发出的“勇虎”坦克，主要作用不是做集群装甲攻击，而是……到海岸边攻击两栖登陆部队。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/50/v2-078ce176888b95354e2ac1946947236d_720w.jpg?source=1940ef5c\" data-size=\"normal\" data-rawwidth=\"660\" data-rawheight=\"440\" class=\"origin_image zh-lightbox-thumb\" width=\"660\" data-original=\"https://pic1.zhimg.com/v2-078ce176888b95354e2ac1946947236d_r.jpg?source=1940ef5c\"/><figcaption>台军主要坦克</figcaption></figure><p data-pid=\"1U6y-Cpx\">记得上一批把坦克开到海岸和军舰对轰的，还是杀遍天下无敌手的虎式坦克。二战德军的一个虎式指挥官对虎式的装甲厚度感到信心满满，指挥自己的坦克连到海岸和盟军海军对射，结果一个回合下来，珍贵的虎式被完全轰成了零件状态。</p><p data-pid=\"1BO3SjHb\">蛙军没有艾布拉姆斯和99式这样的第三代主战坦克，只能不停升级自己的二代勇虎。但是就这么一副冷战早期的皮囊，但无论怎么升级，面包车也不可能拿去跑拉力赛啊。</p><p data-pid=\"lrrqttl3\">所以蛙军的陆军，主要的威胁是那几十架阿帕奇武装直升机和部分自行炮。但是这些战斗力要在夺得制空权的情况下才能发挥出来。一说到制空权，蛙军看了看咱们的歼20，只能一声叹息。</p><h2>4 蛙岛的战略转变</h2><p data-pid=\"N1WmwNBq\">这把军事牌看上去确实烂得一无是处，但是实际上蛙岛的军事力量，随便扔到世界的其他角落，那都是地区一霸的存在。全球军力排名23，把乌克兰还甩开了一个身位。</p><p data-pid=\"u1gMqI3a\">但是难就难在，它们面对的是咱们，咱也不知道咱们到底是“榜眼”还是“探花”，但是收拾了好几个自封“探花”的怨种。</p><p data-pid=\"HGCV8IaK\">蛙军的这一套班底对咱们来说其实也不赖，至少在00年代的时候，我们都无法对它们形成绝对优势。这十来年，蛙军的战略有一个越看越怂的转变。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/50/v2-402c14bbdb140cf62fd3ecd8a9cb2936_720w.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"570\" data-rawheight=\"371\" class=\"origin_image zh-lightbox-thumb\" width=\"570\" data-original=\"https://pic1.zhimg.com/v2-402c14bbdb140cf62fd3ecd8a9cb2936_r.jpg?source=1940ef5c\"/></figure><p data-pid=\"rxRWuNli\">90年代的时候，是它们耀武扬威实施拒止战略的时候。那个时候咱们三大舰队也就勉强凑出几艘中华神盾，面对蛙军引进的康定级和济阳级战舰，我们其实没有多大优势。而空军方面，当时最先进的居然是从俄罗斯引进的苏27系列，在前线挑大梁的都是歼8歼7歼6这些二代战机。而那个时候，IDF战机就是专门针对歼7歼8设计的。</p><p data-pid=\"dz3-_1xK\">它们的战略就是将咱们完全挡在海岛之外，它们敢这么硬气，因为它们当时确实有这个实力。这个战略一个字——拒！</p><p data-pid=\"xJn-74Bw\">00年代的时候，咱们的军力开始发力，蛙军就有点吃力了。战略开始略微退缩——从挡在海岛外，变成了滩头歼敌。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/50/v2-859b8b636c5de1b821fbe42d9661c97f_720w.jpg?source=1940ef5c\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"394\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic1.zhimg.com/v2-859b8b636c5de1b821fbe42d9661c97f_r.jpg?source=1940ef5c\"/><figcaption>我军登陆演习</figcaption></figure><p data-pid=\"47H8OB0q\">它们觉得咱们已经具备了跨海登陆的实力，所以将原先预设的主战场从外海搬到了自己的滩头。企图在咱们抢滩登陆的时候半渡而击，给咱们巨大的杀伤后，逼迫咱们放弃登陆作战。这个战略一个字——止！</p><p data-pid=\"SQxuflUh\">等到2012年以后，咱们下饺子开启了印刷机模式，蛙军傻眼了。这个时候，咱们不仅能在外海将蛙军的海军扒得一干二净，还能围着海岸投送火力，滩头决战的想法已经成了它们不可能实现的痴恋。</p><p data-pid=\"4p7Cpzwm\">于是蛙军眉头一皱心一横，对着硫磺岛和塞班岛的日军有样学样——滩头阵地完全放弃，把所有的堡垒修在内陆或城区，利用内线巷战层层阻击，完美达成一个耗材的最高素养。</p><p data-pid=\"DbBa_6uZ\">这个战略就只有一个字——拖！</p><figure data-size=\"normal\"><img src=\"https://pica.zhimg.com/50/v2-3bb53a0999f2f3f5213337a11f4d4693_720w.jpg?source=1940ef5c\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"359\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pica.zhimg.com/v2-3bb53a0999f2f3f5213337a11f4d4693_r.jpg?source=1940ef5c\"/><figcaption>台军巷战演习</figcaption></figure><p data-pid=\"U8wTCNCh\">利用人命换空间，利用空间换时间。把时间拖够，拖到美军前来帮忙。但是……这次咱们六大演习区围着蛙岛的时候，美军里根号航母猛不回头地朝日本跑，美军真的就那么相信我们的围殴演习不会突然变成团圆行动？两个舞刀弄枪的对手到现在还能有这么高的战略互信？</p><p data-pid=\"zDV_8XpL\">不，它们根本就不用信我们，因为它们压根就不会管。信与不信又有什么相干！</p><p data-pid=\"XQ4Nqit9\">所以要破蛙军的“拖”字诀，只需要破开它们的信念——美军不会丢下它们不管。</p><p data-pid=\"4_7WwmEE\">我们把蛙岛围得严严实实，把岛链拒止能力演给它们看，就是在告诉蛙军——你熬到地老天荒海枯石烂，都不会有人来救你。</p><p data-pid=\"h86mAz0R\">里根号的一路狂奔，给这个现实呈现来了一脚油门。</p><p data-pid=\"-Tey5SgC\">只有这样，30℃以上不进行室外训练，泅渡必须在泳池里训练，伏地射击必须配置遮阳伞的草莓兵团，才会死心塌地举起双手。</p><p data-pid=\"EUpKYAla\">兄弟们，过来吧，这里有馒头，管饱！</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/50/v2-057482c292cd2813d5b9c5a39a0f6d80_720w.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1333\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb\" width=\"1333\" data-original=\"https://pic2.zhimg.com/v2-057482c292cd2813d5b9c5a39a0f6d80_r.jpg?source=1940ef5c\"/></figure><p data-pid=\"9yPGtKTj\">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p><p data-pid=\"qq2UqXId\">今天就写到这里吧，多谢各位看官的捧场。</p><p data-pid=\"WVy_vQX9\">另：所以如果用得着(*^▽^*)，大家可以关注一下我<b>围脖</b>和<b>公众号</b>，与知乎同名：军事魔士。防止被封号失联。那里也会一样分享内容动态O(∩_∩)O哈哈~</p><p data-pid=\"OOy0gxep\">战国乱世，请各位照顾好自己，我们下期再见！</p><p></p>",
+                "mark_infos": [],
+                "relationship": {
+                    "is_thanked": false,
+                    "is_nothelp": false,
+                    "voting": 0,
+                    "upvoted_followee_ids": []
+                },
+                "is_labeled": false,
+                "visited_count": 17135,
+                "thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-ce63977a52c339e7b9d5c05f1e059360_hd.jpg",
+                    "https://pic3.zhimg.com/50/v2-441bcbc7bc5be393e4a75d121ecf3b25_hd.jpg",
+                    "https://pic1.zhimg.com/50/v2-4587a70dfa351e219343b412ecb00d3f_hd.jpg",
+                    "https://pic4.zhimg.com/50/v2-d396b6af50ec23f43e159bc20afc1931_hd.jpg"
+                ],
+                "creation_relationship": {},
+                "favorite_count": 31
+            },
+            "brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 2611447470}",
+            "uninterest_reasons": [
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "20064663",
+                    "object_type": "topic",
+                    "reason_text": "中国人民解放军‭"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19553911",
+                    "object_type": "topic",
+                    "reason_text": "军事"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19553437",
+                    "object_type": "topic",
+                    "reason_text": "台湾"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19586942",
+                    "object_type": "topic",
+                    "reason_text": "中国"
+                },
+                {
+                    "reason_id": 2,
+                    "reason_type": "creator",
+                    "object_token": "3c0f4d9c8d3968cc67f0e2aa1c3dca8d",
+                    "object_type": "people",
+                    "reason_text": "军事魔士创作的内容"
+                }
+            ],
+            "attached_info": "CocECNDpkoCbqLvOogEQBBoJNTA0ODk0NDY0INajs5cGKI4BMAlADEoiChlUU19TT1VSQ0VfRkVFRFJFX1YyX0VYVFJBEgEwGAAgAFoIODM4MjcxNjliIGY0Y2JlMDhmYmVkNjk4MmJmZmFjYWNlNmQzYjFiMmFmcgoyNjExNDQ3NDcwigEJNTQ2OTQ3NzI4qgEJcmVjb21tZW5k8gEFCAsSATPyAQoIDBIGTm9ybWFs8gEoCAoSJGU1MTdkODY2LWI4Y2ItNDI5ZC04ZjQzLTJhM2Q0NmZiM2U0N4gC7faoiacwkgIgM2MwZjRkOWM4ZDM5NjhjYzY3ZjBlMmFhMWMzZGNhOGSaAgDKAh9RdWVzdGlvblJlcGV0aXRpb25OZXdXZWlnaHRSdWxlygIUVGltZWxpbmVzc1dlaWdodFJ1bGXKAhpIaWdoTGV2ZWxDcmVhdG9yV2VpZ2h0UnVsZdoCGVRTX1NPVVJDRV9GRUVEUkVfVjJfRVhUUkHoAgP6AgtOT1JNQUxfRkxPV4oDIGE4YjZmNjcxY2FlNDQ3Nzk5MzdmNDk4MTUyY2QzMWYwmgMGCgJ2MhAAqAPvhQHCAxvpnZLlsJHlubTjgIHkuabnlLvniLHlpb3ogIXSAxcxNDIg6LWe5ZCMIMK3IDMxIOaUtuiXj9gDAOoDDmZlZWRyZV92M19pbmNykgIlCgk1MDQ4OTQ0NjQSCjI2MTE0NDc0NzAYBCIKSU1BR0VfVEVYVA==",
+            "actors": [
+                {
+                    "id": "19550228",
+                    "type": "topic",
+                    "url": "https://www.zhihu.com/topic/19550228/hot",
+                    "avatar_url": "https://pic4.zhimg.com/50/e82bab09c_s.jpg",
+                    "name": "随便看看",
+                    "excerpt": "",
+                    "introduction": ""
+                }
+            ],
+            "show_actor_time": false,
+            "action_text": "随便看看",
+            "action_text_tpl": "热门内容, 来自: {}",
+            "action_card": false
+        },
+        {
+            "id": "13_1659755969.836",
+            "type": "feed",
+            "offset": 13,
+            "verb": "TOPIC_ACKNOWLEDGED_ANSWER",
+            "created_time": 1659755969,
+            "updated_time": 1659755969,
+            "target": {
+                "id": 2575470181,
+                "type": "answer",
+                "url": "https://api.zhihu.com/answers/2575470181",
+                "author": {
+                    "id": "a5f70ad4e4842b28e5269e16c9f3283f",
+                    "type": "people",
+                    "url": "https://api.zhihu.com/people/a5f70ad4e4842b28e5269e16c9f3283f",
+                    "user_type": "people",
+                    "url_token": "tong-zi-qi-78-24",
+                    "name": "桐梓琦",
+                    "headline": "",
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-173062654ff5a760975aa4b6727d5a6b_m.jpg",
+                    "is_org": false,
+                    "gender": 0,
+                    "badge": [],
+                    "followers_count": 10,
+                    "is_following": false,
+                    "is_followed": false
+                },
+                "created_time": 1657855493,
+                "updated_time": 1657855493,
+                "voteup_count": 6,
+                "thanks_count": 9,
+                "comment_count": 45,
+                "is_copyable": true,
+                "question": {
+                    "id": 519342417,
+                    "type": "question",
+                    "url": "https://api.zhihu.com/questions/519342417",
+                    "author": {
+                        "id": "e46b32e3cbc8fe221b499f1f8651599e",
+                        "type": "people",
+                        "url": "https://api.zhihu.com/people/e46b32e3cbc8fe221b499f1f8651599e",
+                        "user_type": "people",
+                        "url_token": "xian-di-37",
+                        "name": "我能控制住自己嘛",
+                        "headline": "",
+                        "avatar_url": "https://pic2.zhimg.com/50/6434be16126c61ffdc53211a54f96693_m.jpg",
+                        "is_org": false,
+                        "gender": 0,
+                        "badge": [],
+                        "followers_count": 21,
+                        "is_following": false,
+                        "is_followed": false
+                    },
+                    "title": "网贷和信用卡负债67万，已逾期，目前年收入8万，每天都在恐慌自责中度过，不知道怎么办?",
+                    "created": 1646096733,
+                    "answer_count": 239,
+                    "follower_count": 316,
+                    "comment_count": 14,
+                    "bound_topic_ids": [
+                        2473,
+                        41512,
+                        45172
+                    ],
+                    "is_following": false,
+                    "excerpt": "",
+                    "relationship": {
+                        "is_author": false
+                    },
+                    "detail": "",
+                    "question_type": "normal"
+                },
+                "excerpt": "这位朋友网贷和信用卡都逾期了，说明你还款能力出现问题了，年收入八万，平均每月6000多不到7000，这点工资和你的债务比起来，不成正比，这点工资有可能连利息都不够，如果家里或者个人没有大的变故，这应该是以贷养贷造成的，你现在停止还款算是一种很明智的方法，至少证明你以贷养贷的这条路已经走不通了，如你问题说的，在恐慌在度过，或者是催收电话或发短信给你，这也没什么可怕的。正常应对，以我的经验，你现在逾期半个月…",
+                "excerpt_new": "这位朋友网贷和信用卡都逾期了，说明你还款能力出现问题了，年收入八万，平均每月6000多不到7000，这点工资和你的债务比起来，不成正比，这点工资有可能连利息都不够，如果家里或者个人没有大的变故，这应该是以贷养贷造成的，你现在停止还款算是一种很明智的方法，至少证明你以贷养贷的这条路已经走不通了，如你问题说的，在恐慌在度过，或者是催收电话或发短信给你，这也没什么可怕的。正常应对，以我的经验，你现在逾期半个月…",
+                "preview_type": "default",
+                "preview_text": "",
+                "reshipment_settings": "allowed",
+                "content": "<p data-pid=\"lYh3w0Qx\">这位朋友网贷和信用卡都逾期了，说明你还款能力出现问题了，年收入八万，平均每月6000多不到7000，这点工资和你的债务比起来，不成正比，这点工资有可能连利息都不够，如果家里或者个人没有大的变故，这应该是以贷养贷造成的，你现在停止还款算是一种很明智的方法，至少证明你以贷养贷的这条路已经走不通了，如你问题说的，在恐慌在度过，或者是催收电话或发短信给你，这也没什么可怕的。正常应对，以我的经验，你现在逾期半个月，电话很多，催收是不会上门的，信用卡逾期上门的话应该是在三个月之后，他们会委托第三方催收公司上门跟你联系，如果是网贷或消费金融公司逾期的话，上门至少要在一个月以后。现在他们发短信打电话就是给你压力，逼迫你还款，甚至说会给你的紧急联系人或者是你的通讯录里面的人员打电话，这都是在给你施压，目的只有一个，让你抓紧还款。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/50/v2-f29c223cad3f15de228dca4670a7056b_720w.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"534\" data-rawheight=\"300\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-4d1c9e3888a38df978c80e0dfa5a6f7f_720w.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb\" width=\"534\" data-original=\"https://pic1.zhimg.com/v2-f29c223cad3f15de228dca4670a7056b_r.jpg?source=1940ef5c\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pica.zhimg.com/50/v2-4d45b8061174878e1a5483c3d4747209_720w.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"399\" data-rawheight=\"711\" data-default-watermark-src=\"https://pic3.zhimg.com/50/v2-4c12bd87da8c22a6130e43d2b78bea77_720w.jpg?source=1940ef5c\" class=\"content_image\" width=\"399\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"CGB7mrzL\">既然已经这样，那索性就静下心来整理整理你的债务，看信用卡欠了多少，看看你的网贷欠了多少。做到心中有数，然后从容应对。争取早日上岸，当我每次回答这种问题的时候，我的心情都是很沉重的，因为我面对过很多这样的人，也给他们说了很多的方式，我始终坚持一点，就是不要以贷养贷，这是害人害己的最根本的根源，虽然现在有很多APP贷款都很方便，但是你的负债和你的收入不成正比的时候，你的负债绝对会拖累你，拖累你的家人和你周边的朋友。</p>",
+                "mark_infos": [],
+                "relationship": {
+                    "is_thanked": false,
+                    "is_nothelp": false,
+                    "voting": 0,
+                    "upvoted_followee_ids": []
+                },
+                "is_labeled": false,
+                "visited_count": 2942,
+                "creation_relationship": {},
+                "favorite_count": 8
+            },
+            "brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 2575470181}",
+            "uninterest_reasons": [
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19674483",
+                    "object_type": "topic",
+                    "reason_text": "负债"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19685344",
+                    "object_type": "topic",
+                    "reason_text": "年收入"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19557587",
+                    "object_type": "topic",
+                    "reason_text": "信用卡"
+                },
+                {
+                    "reason_id": 2,
+                    "reason_type": "creator",
+                    "object_token": "a5f70ad4e4842b28e5269e16c9f3283f",
+                    "object_type": "people",
+                    "reason_text": "桐梓琦创作的内容"
+                }
+            ],
+            "attached_info": "CoQECNDpkoCbqLvOogEQBBoJNDk4MzUyNDkzIIW8w5YGKAYwLUANSicKHlRTX1NPVVJDRV9FTUJFRERJTkdfVElNRUxJTkVTUxIBMBgAIABaCDc3NjkxMzQ3YiBmNGNiZTA4ZmJlZDY5ODJiZmZhY2FjZTZkM2IxYjJhZnIKMjU3NTQ3MDE4MYoBCTUxOTM0MjQxN6oBCXJlY29tbWVuZPIBBQgLEgEz8gEKCAwSBk5vcm1hbPIBKAgKEiRmMjQ0Yzk1Ni0xOGQ2LTQxM2ItYmFjZC00OThiMjI4NDRiOTSIAu32qImnMJICIGE1ZjcwYWQ0ZTQ4NDJiMjhlNTI2OWUxNmM5ZjMyODNmmgIAygIYVW5mcmllbmRsaW5lc3NXZWlnaHRSdWxl2gIeVFNfU09VUkNFX0VNQkVERElOR19USU1FTElORVNT6AIC+gILTk9STUFMX0ZMT1eKAyBhOGI2ZjY3MWNhZTQ0Nzc5OTM3ZjQ5ODE1MmNkMzFmMJoDBgoCdjIQAKgD/hbCA0jplIDllK7kurrlkZjjgIHliJvkuJrpnZLlubTjgIHogL/nm7TjgIHotYTmt7HogYzlnLrovr7kurrjgIHlrrbmnInokIzlqIPSAxU2IOi1nuWQjCDCtyA0NSDor4TorrrYAwDqAxN0aW1lbGluZXNzRW1iZWRkaW5nkgIlCgk0OTgzNTI0OTMSCjI1NzU0NzAxODEYBCIKSU1BR0VfVEVYVA==",
+            "actors": [
+                {
+                    "id": "19550228",
+                    "type": "topic",
+                    "url": "https://www.zhihu.com/topic/19550228/hot",
+                    "avatar_url": "https://pic4.zhimg.com/50/e82bab09c_s.jpg",
+                    "name": "随便看看",
+                    "excerpt": "",
+                    "introduction": ""
+                }
+            ],
+            "show_actor_time": false,
+            "action_text": "随便看看",
+            "action_text_tpl": "热门内容, 来自: {}",
+            "action_card": false
+        },
+        {
+            "id": "14_1659755969.240",
+            "type": "feed",
+            "offset": 14,
+            "verb": "TOPIC_ACKNOWLEDGED_ANSWER",
+            "created_time": 1659755969,
+            "updated_time": 1659755969,
+            "target": {
+                "id": 2600432600,
+                "type": "answer",
+                "url": "https://api.zhihu.com/answers/2600432600",
+                "author": {
+                    "id": "4dbce94b8acddaf4bfe2686c2ae09972",
+                    "type": "people",
+                    "url": "https://api.zhihu.com/people/4dbce94b8acddaf4bfe2686c2ae09972",
+                    "user_type": "people",
+                    "url_token": "qing-feng-xu-lai-31-66",
+                    "name": "浪子江湖随笔",
+                    "headline": "公众号【现实潜规则】关注即送《绝密人性天书》",
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-762fa32a012e31821c718a07dfa0ce38_m.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "badge": [],
+                    "followers_count": 1090,
+                    "is_following": false,
+                    "is_followed": false
+                },
+                "created_time": 1659167434,
+                "updated_time": 1659167434,
+                "voteup_count": 111,
+                "thanks_count": 27,
+                "comment_count": 9,
+                "is_copyable": false,
+                "question": {
+                    "id": 35930303,
+                    "type": "question",
+                    "url": "https://api.zhihu.com/questions/35930303",
+                    "author": {
+                        "id": "3f4dbed26b318af0baf1d15ca15b9405",
+                        "type": "people",
+                        "url": "https://api.zhihu.com/people/3f4dbed26b318af0baf1d15ca15b9405",
+                        "user_type": "people",
+                        "url_token": "su-yan-27-4-20",
+                        "name": "王苏妍",
+                        "headline": "",
+                        "avatar_url": "https://pic2.zhimg.com/50/af9f54c4f767f6cb3c015348a3d558e8_m.jpg",
+                        "is_org": false,
+                        "gender": 0,
+                        "badge": [],
+                        "followers_count": 259,
+                        "is_following": false,
+                        "is_followed": false
+                    },
+                    "title": "为什么说永远都不要考验人性？",
+                    "created": 1443109399,
+                    "answer_count": 6901,
+                    "follower_count": 77972,
+                    "comment_count": 138,
+                    "bound_topic_ids": [
+                        994
+                    ],
+                    "is_following": false,
+                    "excerpt": "",
+                    "relationship": {
+                        "is_author": false
+                    },
+                    "detail": "",
+                    "question_type": "normal"
+                },
+                "excerpt": "讲个看过的小故事吧。 昨天我跟一个朋友去吃火锅，吃完火锅下大雨，我朋友就跟服务员说，能不能借雨伞用一下？服务员一开始不想借，我那个朋友就苦苦的跟他承诺，说你放心，我明天一定要把这个伞还给你。 这个服务员看我朋友这么真诚，于是就把伞借给了他，回去的路上，我朋友把这个服务员一顿夸，这个事过了5,6天后，我去朋友家，发现那把伞还在他那里，我说你借人家伞怎么没还回去啊？他说，我在他家吃火锅，吃了300块，难道送…",
+                "excerpt_new": "讲个看过的小故事吧。 昨天我跟一个朋友去吃火锅，吃完火锅下大雨，我朋友就跟服务员说，能不能借雨伞用一下？服务员一开始不想借，我那个朋友就苦苦的跟他承诺，说你放心，我明天一定要把这个伞还给你。 这个服务员看我朋友这么真诚，于是就把伞借给了他，回去的路上，我朋友把这个服务员一顿夸，这个事过了5,6天后，我去朋友家，发现那把伞还在他那里，我说你借人家伞怎么没还回去啊？他说，我在他家吃火锅，吃了300块，难道送…",
+                "preview_type": "default",
+                "preview_text": "",
+                "reshipment_settings": "disallowed",
+                "content": "<p data-pid=\"FSPyyWDI\">讲个看过的小故事吧。</p><p data-pid=\"GhKMXaoU\">昨天我跟一个朋友去吃火锅，吃完火锅下大雨，我朋友就跟服务员说，能不能借雨伞用一下？服务员一开始不想借，我那个朋友就苦苦的跟他承诺，说你放心，我明天一定要把这个伞还给你。</p><p data-pid=\"2Mku6dad\">这个服务员看我朋友这么真诚，于是就把伞借给了他，回去的路上，我朋友把这个服务员一顿夸，这个事过了5,6天后，我去朋友家，发现那把伞还在他那里，我说你借人家伞怎么没还回去啊？他说，我在他家吃火锅，吃了300块，难道送一把伞不应该吗？</p><p data-pid=\"LhIXhZaG\">我说你吃火锅花了300块，是老板赚了你的钱，这个伞是服务员自己的，你不还了，人家服务员就亏了。</p><p data-pid=\"kVi4cLWW\">他说我管不了那么多，反正我花那个钱，这个伞就当赠品了。</p><p data-pid=\"Cxxyy4D7\">各位有没有看懂人性啊？</p><p data-pid=\"4c9TxuIC\">他借伞的时候呢，对这个服务员感恩戴德，那是绝对发自内心的，但是他第2天，又不想还了，把这个服务员抛在脑后，那也是毫不留情。</p><p data-pid=\"rnCLO9ml\"><b>发自内心的感激和毫不留情的遗忘，变化就在一天之间。</b></p><p data-pid=\"nXqt05TR\"><b>人性善变的速度，真的是坐着火箭都追不上，这就像你朋友跟你借钱的时候，信誓旦旦的发誓，10天之内保证还你，像个孙子似的求你，但是到还钱的时候呢，推三阻四，不理不睬，从孙子直接变大爷。</b></p><p data-pid=\"HgRIQ7H6\">曾经你那个男朋友，单膝跪地，在你面前说我会爱你一辈子，一生一世当牛做马，那一刻，他说的绝对是真心话，但是后来你俩在一起过了三五年，他又遇到了别人，然后就想狠心把你丢下，丢下的那一刻，他也是毫不留情。</p><p data-pid=\"kNVJFJQV\">所以这个世界没有好人和坏人，一切都在于他有没有更好的选择，他除了你，没有更好的选择时，他就会把你当祖宗供着，他除了你，有大把更好的选择时，丢掉你就像丢掉垃圾一样。</p><p data-pid=\"UoVXvVzP\">很多人问我人性是善，还是恶？</p><p data-pid=\"FqyOyC4F\">其实人性没有所谓的善恶之分，只是自私而已，自私也不是贬义词，只不过被认为成贬义这种思想的时间太长了，原始社会，人如果不自私，不为自己，就活不下来，人都会做自私的选择，否则此刻被夹杂在卫生纸里扔在垃圾桶的就是我们。</p><p data-pid=\"nFvlSKtH\">国富论里面说，推动市场的无形之手其中之一就是自私的动机。刚出生的婴儿，饿了，就要大哭，学会走路了，还会从母亲兄弟手中夺食，这不是自私吗，不这样做，他们活不下来。</p><p data-pid=\"Wu2RnuBy\">所以，人的天性就是自私，这没什么，可是偏偏被宣扬的天理不容一样。</p><p data-pid=\"38byaABg\">为什么人人都痛恨自私呢？</p><p data-pid=\"yEPS62YH\">因为一个自私的人，我们跟他相处是占不到便宜和好处的。</p><p data-pid=\"b0ACl70a\">所以我们排斥自私，只不过是希望别人为我们多付出一点，其实也是为了自己的自私。</p><p data-pid=\"dO5Vj9Af\">我经常讲，千万不要听一个人说什么，要看他做什么，这样更能看清真相。</p><p data-pid=\"NN2K5TZP\">比如：你跟一个人交往，一定别看他能对你有多好，一定要看他到底能对你有多坏。说翻脸就翻脸的人太多了，一点风吹草动，马上扭头不认人，把你咬得骨头都不剩。只要一件事错了，就能把你所有的全部否决。</p><p data-pid=\"4_44OPq9\"><b>你念着<span class=\"nolink\">旧情</span>，对方翻脸无情。</b></p><p data-pid=\"2pL9rckq\">你跟一个人交往，主要看这个人行为上的细节，比如你问他要钱的时候，他是爽快的，还是犹豫的，你就知道这个人是人还是鬼。</p><p data-pid=\"5Ta6Ne0_\">当然，不止是钱上，任何事情都是看行动，用行动来检测一个人，不要用对方说的话来评价一个人</p><p data-pid=\"4_yz8aVz\">记住，任何人说的话，都别当一回事，你认真，你就会<span class=\"nolink\">受伤</span>。</p><p data-pid=\"Waqh41iN\">不要相信人的那张嘴，要相信人的那条腿。有的人嘴巴是摸了蜜的，其实内心是特小心眼的</p><p data-pid=\"CW5fipAX\">只要他抓住了你的把柄，就会不依不饶，得理不饶人。而且以前的各种鸡毛蒜皮，他都会对你如数家珍，你都忘了八辈子的事情，他都能从哪个<span class=\"nolink\">老鼠</span>旮旯里，帮你揪出来。哪怕你以死谢罪，对方都不会放过你，人性都是这样的，只要他能说赢你，他就感觉打了胜仗，爽歪歪，哈哈哈。</p><p data-pid=\"iy9r6RUO\">很多人就喜欢听别人说的，却忽略别人做的，最后上当受骗，痛苦一生。。。</p><h3>公众号：【现实潜规则】分享外面看不到的人情世故、社会经验和江湖潜规则。</h3><h3>点赞和关注一定让你今年爆帅，爆美，暴富~</h3>",
+                "mark_infos": [],
+                "relationship": {
+                    "is_thanked": false,
+                    "is_nothelp": false,
+                    "voting": 0,
+                    "upvoted_followee_ids": []
+                },
+                "is_labeled": false,
+                "visited_count": 13682,
+                "creation_relationship": {},
+                "favorite_count": 70
+            },
+            "brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 2600432600}",
+            "uninterest_reasons": [
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19553195",
+                    "object_type": "topic",
+                    "reason_text": "人性"
+                },
+                {
+                    "reason_id": 2,
+                    "reason_type": "creator",
+                    "object_token": "4dbce94b8acddaf4bfe2686c2ae09972",
+                    "object_type": "people",
+                    "reason_text": "浪子江湖随笔创作的内容"
+                }
+            ],
+            "attached_info": "CvICCNDpkoCbqLvOogEQBBoJNTAyODkxMzcyIMrFk5cGKG8wCUAOSgwKA0hvdBIBMRgAIABaBzY1NzkwMDViIGY0Y2JlMDhmYmVkNjk4MmJmZmFjYWNlNmQzYjFiMmFmcgoyNjAwNDMyNjAwigEIMzU5MzAzMDOqAQlyZWNvbW1lbmTyAQUICxIBM/IBCggMEgZOb3JtYWzyASgIChIkNTQ3MGM1ZTItN2ZhOC00YzE3LTlmYTEtNmU5OGZmM2I0YTExiALt9qiJpzCSAiA0ZGJjZTk0YjhhY2RkYWY0YmZlMjY4NmMyYWUwOTk3MpoCAMoCGkhpZ2hMZXZlbENyZWF0b3JXZWlnaHRSdWxl2gIDSG906AID+gILTk9STUFMX0ZMT1eKAyBhOGI2ZjY3MWNhZTQ0Nzc5OTM3ZjQ5ODE1MmNkMzFmMJoDBgoCdjIQAKgD8mrCAwDSAxcxMTEg6LWe5ZCMIMK3IDcwIOaUtuiXj9gDAJICJQoJNTAyODkxMzcyEgoyNjAwNDMyNjAwGAQiCklNQUdFX1RFWFQ=",
+            "actors": [
+                {
+                    "id": "19550228",
+                    "type": "topic",
+                    "url": "https://www.zhihu.com/topic/19550228/hot",
+                    "avatar_url": "https://pic4.zhimg.com/50/e82bab09c_s.jpg",
+                    "name": "随便看看",
+                    "excerpt": "",
+                    "introduction": ""
+                }
+            ],
+            "show_actor_time": false,
+            "action_text": "随便看看",
+            "action_text_tpl": "热门内容, 来自: {}",
+            "action_card": false
+        },
+        {
+            "id": "15_1659755969.740",
+            "type": "feed",
+            "offset": 15,
+            "verb": "TOPIC_ACKNOWLEDGED_ANSWER",
+            "created_time": 1659755969,
+            "updated_time": 1659755969,
+            "target": {
+                "id": 2442509099,
+                "type": "answer",
+                "url": "https://api.zhihu.com/answers/2442509099",
+                "author": {
+                    "id": "3c14a9871ba240ae004a3441f9dff062",
+                    "type": "people",
+                    "url": "https://api.zhihu.com/people/3c14a9871ba240ae004a3441f9dff062",
+                    "user_type": "people",
+                    "url_token": "yang-qiao-93",
+                    "name": "一本木木",
+                    "headline": "威信公众号 一本木木，各种福利",
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-05f9e0e76972e726b59e3203e831191b_m.jpg",
+                    "is_org": false,
+                    "gender": 0,
+                    "badge": [],
+                    "followers_count": 260,
+                    "is_following": false,
+                    "is_followed": false
+                },
+                "created_time": 1650097122,
+                "updated_time": 1650097122,
+                "voteup_count": 155,
+                "thanks_count": 20,
+                "comment_count": 43,
+                "is_copyable": true,
+                "question": {
+                    "id": 293997104,
+                    "type": "question",
+                    "url": "https://api.zhihu.com/questions/293997104",
+                    "author": {
+                        "id": "334820c5128dfd321409cb135082838c",
+                        "type": "people",
+                        "url": "https://api.zhihu.com/people/334820c5128dfd321409cb135082838c",
+                        "user_type": "people",
+                        "url_token": "cueyi",
+                        "name": "cueyi",
+                        "headline": "学生",
+                        "avatar_url": "https://pic4.zhimg.com/50/v2-d25e62acfa2294ccfe26ef9eaeb58dc6_m.jpg",
+                        "is_org": false,
+                        "gender": 0,
+                        "badge": [],
+                        "followers_count": 0,
+                        "is_following": false,
+                        "is_followed": false
+                    },
+                    "title": "如何看待伊利与蒙牛这两家公司？",
+                    "created": 1536491354,
+                    "answer_count": 1044,
+                    "follower_count": 4703,
+                    "comment_count": 59,
+                    "bound_topic_ids": [
+                        361,
+                        2511,
+                        11184,
+                        11234,
+                        40200
+                    ],
+                    "is_following": false,
+                    "excerpt": "",
+                    "relationship": {
+                        "is_author": false
+                    },
+                    "detail": "",
+                    "question_type": "normal"
+                },
+                "excerpt": "刚成立的蒙牛，承包了呼市路边广告牌，上面写着：向伊利学习，创内蒙古乳业第二品牌。没想到，当天晚上，四十多块广告牌全部被砸。 蒙牛的广告牌究竟是谁砸的？蒙牛得罪了谁？ 共事16年，昔日“战友”反目成仇，成立对手公司1983年，33岁的郑俊怀被调到呼和浩特市回民奶食品厂当厂长，这家奶厂连年亏损，濒临倒闭，为了让奶厂扭亏为盈，郑俊怀招了一批新员工，24岁的牛根生因此进入奶厂工作。 虽然是新人，但牛根生能力出众，他…",
+                "excerpt_new": "刚成立的蒙牛，承包了呼市路边广告牌，上面写着：向伊利学习，创内蒙古乳业第二品牌。没想到，当天晚上，四十多块广告牌全部被砸。 蒙牛的广告牌究竟是谁砸的？蒙牛得罪了谁？ 共事16年，昔日“战友”反目成仇，成立对手公司1983年，33岁的郑俊怀被调到呼和浩特市回民奶食品厂当厂长，这家奶厂连年亏损，濒临倒闭，为了让奶厂扭亏为盈，郑俊怀招了一批新员工，24岁的牛根生因此进入奶厂工作。 虽然是新人，但牛根生能力出众，他…",
+                "preview_type": "default",
+                "preview_text": "",
+                "reshipment_settings": "allowed",
+                "content": "<p data-pid=\"teCu6ijx\">刚成立的蒙牛，承包了呼市路边广告牌，上面写着：向伊利学习，创内蒙古乳业第二品牌。没想到，当天晚上，四十多块广告牌全部被砸。</p><p data-pid=\"ddTM3U8B\">蒙牛的广告牌究竟是谁砸的？蒙牛得罪了谁？</p><p data-pid=\"rr-iahgZ\"><b>共事16年，昔日“战友”反目成仇，成立对手公司</b></p><p data-pid=\"ySZ4TBbU\">1983年，33岁的郑俊怀被调到呼和浩特市回民奶食品厂当厂长，这家奶厂连年亏损，濒临倒闭，为了让奶厂扭亏为盈，郑俊怀招了一批新员工，24岁的牛根生因此进入奶厂工作。</p><p data-pid=\"UhuYjV9H\">虽然是新人，但牛根生能力出众，他带领厂里的一批年轻人，让奶厂当年就开始扭亏为盈。凭借着出色的工作能力，牛根生从基层一路晋升，成为公司二把手。</p><p data-pid=\"etPDc3ZA\">10年后，郑俊怀成立伊利集团，出任董事长，牛根生出任副总裁。同年，伊利上市，成为中国乳品行业第一家上市公司。</p><p data-pid=\"tObzid8U\">当时，牛根生的业绩一直特别出色，公司八成的业绩掌握在牛根生手里，伊利一半人都听从牛根生的调遣。渐渐地，郑俊怀发现，牛根生在伊利的威望超过了自己，于是处处针对牛根生，把权利逐步收回到自己手中，伊利的大小事务他都亲自签字，就连办公室买一把扫帚也得他签字才行。</p><p data-pid=\"59VZAtri\">牛根生也发现了工作中的异样，还曾因工作中的事情去找郑俊怀诉苦，后来经人提醒，才明白是因为自己“功高盖主”引起领导的不满。在伊利处处受限的牛根生，一共向郑俊怀递交了三次辞呈。前两次都被郑俊怀挽留了，牛根生只好收回了辞呈。但牛根生发现，自己在公司的处境变得越来越恶劣了。</p><p data-pid=\"aStXLGL-\">在伊利的一次董事会上，牛根生第三次递交辞呈，牛根生对郑俊怀说：“郑大哥，如果你想让我离开，我现在就正式辞职，至少不能因为我个人影响公司的发展。”郑俊怀脸色有些难看，但还是说：“我并没有这个意思啊！”但当牛根生伸手想拿回辞呈时，郑俊怀迅速地用手紧紧摁住了辞呈，对牛根生说：“你先回避一下，我们讨论讨论再做决定！”</p><p data-pid=\"UANzKqbf\">牛根生不知道他们在会上是如何讨论的，讨论的结果便是将牛根生流放北大，让他远离伊利。</p><p data-pid=\"H2zJ_FPD\">从北大进修回来后，牛根生正式辞职，离开伊利。</p><p data-pid=\"W6Wp8CjO\">辞职后，牛根生于1999年创立蒙牛，准备再造一个伊利。之后，伊利和蒙牛的竞争拉开帷幕。</p><p data-pid=\"JL976s58\">蒙牛成立后，原来跟着牛根生的部下，纷纷离开伊利，投奔牛根生，总计300多人，涉及生产、经营、销售、市场营销、原料设备等各个部门，很多都是伊利各个部门的一把手。</p><p data-pid=\"pQ7QbOEu\">眼看着自己公司的人才纷纷流入伊利，郑俊怀心里气得牙痒痒，自己培养了十几年的得力助手，居然与自己反目成仇，站在了自己的对立面。</p><p data-pid=\"cZRZWIa-\"><b>广告牌被砸，却因祸得福受关注，成呼市乳业老二</b></p><p data-pid=\"r2mmDQVf\">当时，伊利已在内蒙古发展6年，并没有把蒙牛放在眼里，忙着跟光明一决高下。但对经销商下达了死命令，不许伊利的经销商经销蒙牛的产品，一经发现，直接取消伊利经销资格。</p><p data-pid=\"aYzguwnP\">牛根生也知道初生的蒙牛不是伊利的对手，如何拿下市场，让蒙牛发展壮大才是当务之急。成立三个月后，蒙牛就干了一件大事。</p><p data-pid=\"WVKxruI5\">蒙牛在主要街道的广告牌上，都印上了蒙牛的广告：向伊利学习，创内蒙古乳业第二品牌。</p><p data-pid=\"XTcCOBfl\">这句广告词不仅和和伊利扯上了关系，成功让消费者己住了蒙牛这个新品牌，还主动承认伊利是内蒙古乳业老大，蒙牛要向伊利学习。</p><p data-pid=\"obY2V-Zd\">蒙牛投放的广告花了一大笔资金，牛根生也对这些广告寄予厚望，希望借此打开蒙牛的市场。然而，蒙牛的45块广告牌贴出后，却在一夜之间被砸了个稀烂，让蒙牛的广告战略胎死腹中</p><p data-pid=\"25-exvyG\">广告牌被砸，对新生的蒙牛无疑是巨大打击。但蒙牛却因广告牌事件因祸得福。</p><p data-pid=\"ua62NxoP\">蒙牛的广告牌究竟是谁砸的？蒙牛得罪了谁？这件事引发人们的广泛关注，与此同时，媒体发现蒙牛的创始人竟是伊利之前的老总，关于蒙牛的各种报道也越来越多。蒙牛借助广告牌事件，迅速进入大众视线，广告牌是被砸了，但蒙牛这个品牌却越来越响了，蒙牛接到大量订单，反超其他乳业公司，成为呼和浩特第二大乳业公司，仅次于伊利。</p><p data-pid=\"UHJjYAol\">这件事，史称“蒙牛广告牌事件”。蒙牛的广告牌到底是谁砸的？对于这件事，坊间众说纷纭。</p><p data-pid=\"y-_nTIDo\">有人认为是伊利派人砸的，要把蒙牛扼杀在摇篮中。也有人认为这是蒙牛“自导自演”的行为，目的就是为了博眼球。</p><p data-pid=\"xlosKtZ7\"><b>提出“中国乳都”概念，签对赌协议，成伊利对手</b></p><p data-pid=\"fryO7l_k\">成为内蒙古第二大乳企后，营销鬼才牛根生又放了一个大招。</p><p data-pid=\"QmtjZsK6\">蒙牛创造性地推出了“乳都”概念广告。蒙牛的广告词也改为：蒙牛和其他本土乳业，为中国乳都“内蒙古”喝彩！</p><p data-pid=\"75kHpycD\">蒙牛的广告乍一看平平无奇，细品则十分巧妙。不仅奠定了蒙牛本土代表企业的地位，提高了蒙牛的知名度，还顺势打压了伊利。</p><p data-pid=\"8Rc4C2El\">首先，“内蒙古是中国乳都”这个概念，是蒙牛率先提出的，一旦内蒙古成为“中国乳都”，那以后提起牛奶，人们的首选就是内蒙古，而蒙牛的名称，就是内蒙古的牛的意思，是内蒙古乳业的本土代表企业，宣传内蒙古就是宣传自己。其次，蒙牛作为“中国乳都”的提出者和先行者，排面上明显压了伊利一头，格局也比伊利大。</p><p data-pid=\"YFePZlfm\">这边，等伊利反应过来，想入局的时候，局面已经被蒙牛牢牢霸占了。</p><p data-pid=\"y-GmQLT1\">后来，内蒙古顺利打造成为“中国乳都”，蒙牛也跟着沾光，发展迅猛，在全国乳制品企业中的排名由第1116位升至第4位。</p><p data-pid=\"Hnab9bOM\">俗话说，一山容不下二虎，伊利眼看着蒙牛飞速发展，也开始把蒙牛列入竞争对手行列。</p><p data-pid=\"pNrYkS3d\"><b>4年将公司干上市，8年成行业老大，却痛失奥运赞助良机</b></p><p data-pid=\"Loj-AEtI\">为了让蒙牛快速发展壮大，牛根生还拿蒙牛股份跟摩根士丹利签了对赌协议，最终以蒙牛管理层胜利而提前终结。蒙牛得到了资本的支持，快速发展。</p><p data-pid=\"Gtn_2bur\">2003年，神舟五号成功发射，杨利伟登上太空，蒙牛成为神舟五号唯一的牛奶赞助商，成了中国航天员专用奶，销量与名气齐飞。隔年，蒙牛在香港上市。</p><p data-pid=\"CF9KLsfi\">上市后，蒙牛赞助湖南台现象级选秀节目《超级女声》，极大地提高了蒙牛的知名度和影响力，畅销全国。伊利也不甘落后，赞助央视综艺节目。双方在各个领域卯足了劲，进行激烈竞争。</p><p data-pid=\"3cdTnWP9\">2005年初，牛根生的老对头郑俊怀因挪用公款被判三年，锒铛入狱。一把手的落马，对蒙牛而言是个大好的机会，蒙牛瞅准时机，与伊利正面交锋。</p><p data-pid=\"QbE1McQT\">当年，伊利率先开发了“优酸乳”，主攻青少年消费市场，取得了良好的市场业绩。蒙牛随即推出“酸酸乳”产品针锋相对，并继续赞助《超级女声》，销售额从2004年的8亿元飙升至2005年的30亿元。</p><p data-pid=\"cXSarYLX\">牛根生通过一系列营销活动，让蒙牛知名度与销量齐飞，逐渐追上伊利，与伊利势均力敌。</p><p data-pid=\"j8UsCM2T\">同年年底，伊利在呼和浩特，与北京奥组委签约，正式成为北京2008年奥运会乳制品赞助商。</p><p data-pid=\"Nek1BPEn\">次日，蒙牛紧急向全国媒体发出邮件，声称此前蒙牛和伊利都向北京奥组委递交了标书，均已进入审核程序，然而，两家乳企的竞争引起了当地几十万奶农的抗议。呼和浩特政府出面协调，建议两家企业共同退出北京奥运赞助商的申请活动。最终，两家企业同意退出奥运赞助商的争夺战，并共同确认了当天起草的《关于退出北京奥运合作伙伴申请活动的函》，这份文件被同时发送给了北京奥组委。</p><p data-pid=\"ioQvIq7N\">直到伊利与北京奥组委签约，蒙牛才知道自己被耍了，继而联系媒体陈述事实，暗指伊利言行不一。但木已成舟，蒙牛就此丧失赞助奥运的良机。</p><p data-pid=\"PA9JZAmV\">蒙牛没有坐以待毙，不久提出全民运动的口号，推出“包装盒换奶回收计划”，在全国掀起一场运动热潮，名声大噪。</p><p data-pid=\"lFMjCTw-\">2007年，蒙牛在业绩上实现了对伊利的全面赶超，正式宣告自己成为“中国乳制品行业一哥”。</p><p data-pid=\"-NtaRABh\">伊利借助北京奥运会赞助商的“资历”，在此后的奥运赞助商争夺战中一路顺风顺水，先后赞助了伦敦奥运会、索契冬奥会、里约奥运会、平昌冬奥会等多场大型体育赛事。</p><p data-pid=\"3dHAw1gC\">而与奥运绝缘的蒙牛，则牢牢抓住中国航天事业官方合作伙伴的称号，寻找其他合作机会。</p><p data-pid=\"MRGgNGzr\"><b>三聚氰胺事件后，伊利反超蒙牛，惊现乳业抹黑门事件</b></p><p data-pid=\"bMnTWMnz\">2008年，三聚氰胺事件发生后，国内乳制品企业都遭受重创，蒙牛、伊利奶粉均在不合格名单上，根据国家要求，此前生产的乳品必须全部下架销毁。这对乳业企业和经销商来说都是一笔很大的损失。</p><p data-pid=\"BEqdfxxP\">在损失承担上，伊利和蒙牛的策略却不一致，蒙牛向自己的经销商提出要共同承担责任，损失资金五五开。伊利选择全额承担损失。</p><p data-pid=\"LclF1Uiz\">两家企业的政策公布后，伊利的做法更让经销商满意，为伊利赢得了良好的口碑。伊利的政策让经销商面临巨大的资金压力，成为压垮很多经销商的最后一根稻草。第二年，国内乳品行业开始慢慢复苏，很多经销商倒戈伊利，放弃蒙牛。</p><p data-pid=\"ktpENGCe\">2010年，在网上大量出现攻击伊利QQ星的言论，称QQ星中含有导致儿童性早熟的深海鱼油DHAA成分。因此不少消费者开始抵制伊利“QQ星”，伊利口碑大幅下跌。</p><p data-pid=\"4P7qEzvQ\">当天，伊利发表声明称，自己被竞争企业恶意攻击，只好向警方报案。</p><p data-pid=\"cQ9EC7RQ\">警方接到报警后，没费多大力气就破了案，经警方侦破，案件涉及蒙牛乳业及其公关公司，4名涉事人员被捕，其中就有蒙牛“未来星”品牌经理，但涉案人员坚称此事与蒙牛公司无关，是自己一手策划的。</p><p data-pid=\"Hpq5eTrw\">这一事件，史称蒙牛“激素门”。蒙牛也因此陷入了巨大的丑闻风波之中。蒙牛官方发布声明否认策划了攻击伊利的事件，并称伊利也曾花巨资委托北京未晚品牌传播机构，采用收买媒体的方式，恶意制造并散播蒙牛的负面消息，伊利先后支付未晚广告公司592.17万元，共发表了上百篇恶意诋毁蒙牛的文章。实施方针是先把蒙牛变成病牛再到死牛。只是这件2004年的案件一直没有结案。至此，乳业抹黑门事件升级，蒙牛呼吁彻查“未晚事件”。</p><p data-pid=\"XjdQkuYv\">蒙牛的言外之意是，伊利花几百万抹黑蒙牛的事情怎么没人关注，这次蒙牛才花几万块回击一下，公众的反应怎么这么大。</p><p data-pid=\"Kzar4lb3\">之后，蒙牛和伊利都表示不再追究此事，事件才得以平息。</p><p data-pid=\"Xrws1gNQ\">但蒙牛与伊利的竞争激烈程度，从中可见一斑。</p><p data-pid=\"9MqM1zcD\">如今，在各大商超中，蒙牛和伊利的产品十分相似，双方无论谁推出新品，另一方就立马推出同款商品，到底谁模仿谁，已经说不清了。只剩下你追我赶，我也不服谁的惨烈竞争。</p><p data-pid=\"oEGw6953\">转自</p><a href=\"https://link.zhihu.com/?target=https%3A//www.kemaowang.org.cn/n/275464.html\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">伊利蒙牛事件怎么回事(蒙牛和伊利的恩仇录)</a><p></p>",
+                "mark_infos": [],
+                "relationship": {
+                    "is_thanked": false,
+                    "is_nothelp": false,
+                    "voting": 0,
+                    "upvoted_followee_ids": []
+                },
+                "is_labeled": false,
+                "visited_count": 56101,
+                "creation_relationship": {},
+                "favorite_count": 45
+            },
+            "brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 2442509099}",
+            "uninterest_reasons": [
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19670556",
+                    "object_type": "topic",
+                    "reason_text": "乳业"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19551304",
+                    "object_type": "topic",
+                    "reason_text": "食品"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19583988",
+                    "object_type": "topic",
+                    "reason_text": "伊利集团"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19557689",
+                    "object_type": "topic",
+                    "reason_text": "消费"
+                },
+                {
+                    "reason_id": 2,
+                    "reason_type": "creator",
+                    "object_token": "3c14a9871ba240ae004a3441f9dff062",
+                    "object_type": "people",
+                    "reason_text": "一本木木创作的内容"
+                }
+            ],
+            "attached_info": "Cq4DCNDpkoCbqLvOogEQBBoJNDc0MTc2NDkxIOL36ZIGKJsBMCtAD0osCiNUU19TT1VSQ0VfWlJFQ0FMTF9URVhUX1RPV19UT1dFUl9WMRIBMBgAIABaCDI3NjA5OTMzYiBmNGNiZTA4ZmJlZDY5ODJiZmZhY2FjZTZkM2IxYjJhZnIKMjQ0MjUwOTA5OYoBCTI5Mzk5NzEwNKoBCXJlY29tbWVuZPIBBQgLEgEz8gEKCAwSBk5vcm1hbPIBKAgKEiQ0YjBlMzk4OS0zMTUzLTRhNmMtYmY1MS0yNGQ1YTI0OTE2OWGIAu32qImnMJICIDNjMTRhOTg3MWJhMjQwYWUwMDRhMzQ0MWY5ZGZmMDYymgIA2gIjVFNfU09VUkNFX1pSRUNBTExfVEVYVF9UT1dfVE9XRVJfVjHoAgP6AgtOT1JNQUxfRkxPV4oDIGE4YjZmNjcxY2FlNDQ3Nzk5MzdmNDk4MTUyY2QzMWYwmgMGCgJ2MhAAqAOltgPCAwDSAxcxNTUg6LWe5ZCMIMK3IDQzIOivhOiuutgDAOoDEnRleHRfdHdvX3Rvd2VyX3YxMJICJQoJNDc0MTc2NDkxEgoyNDQyNTA5MDk5GAQiCklNQUdFX1RFWFQ=",
+            "actors": [
+                {
+                    "id": "19550228",
+                    "type": "topic",
+                    "url": "https://www.zhihu.com/topic/19550228/hot",
+                    "avatar_url": "https://pic4.zhimg.com/50/e82bab09c_s.jpg",
+                    "name": "随便看看",
+                    "excerpt": "",
+                    "introduction": ""
+                }
+            ],
+            "show_actor_time": false,
+            "action_text": "随便看看",
+            "action_text_tpl": "热门内容, 来自: {}",
+            "action_card": false
+        },
+        {
+            "id": "16_1659755969.257",
+            "type": "feed",
+            "offset": 16,
+            "verb": "TOPIC_ACKNOWLEDGED_ANSWER",
+            "created_time": 1659755969,
+            "updated_time": 1659755969,
+            "target": {
+                "id": 2554227045,
+                "type": "answer",
+                "url": "https://api.zhihu.com/answers/2554227045",
+                "author": {
+                    "id": "69fe5c9ae0e7fa028722916b252a7810",
+                    "type": "people",
+                    "url": "https://api.zhihu.com/people/69fe5c9ae0e7fa028722916b252a7810",
+                    "user_type": "people",
+                    "url_token": "fan-yi-chao-91",
+                    "name": "范逸超",
+                    "headline": "公众号【假正经的木头人】\n圈子 【木头人的文玩圈】\n咨询付费",
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-3de2e93fe29c141442484ac0785576cd_m.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "badge": [],
+                    "followers_count": 7298,
+                    "is_following": false,
+                    "is_followed": false
+                },
+                "created_time": 1656674068,
+                "updated_time": 1656905099,
+                "voteup_count": 17852,
+                "thanks_count": 4701,
+                "comment_count": 804,
+                "is_copyable": true,
+                "question": {
+                    "id": 469218953,
+                    "type": "question",
+                    "url": "https://api.zhihu.com/questions/469218953",
+                    "author": {
+                        "id": "2e6232d7de2d06b0b9cad59287335064",
+                        "type": "people",
+                        "url": "https://api.zhihu.com/people/2e6232d7de2d06b0b9cad59287335064",
+                        "user_type": "people",
+                        "url_token": "jia-xin-xian-jing",
+                        "name": "嘉歆娴静",
+                        "headline": "",
+                        "avatar_url": "https://pic1.zhimg.com/50/v2-4a6eff3ca8bb0630267e0b19268c9a12_m.jpg",
+                        "is_org": false,
+                        "gender": 0,
+                        "badge": [],
+                        "followers_count": 916,
+                        "is_following": false,
+                        "is_followed": false
+                    },
+                    "title": "男朋友对我没占有欲了怎么办？",
+                    "created": 1625094566,
+                    "answer_count": 811,
+                    "follower_count": 4130,
+                    "comment_count": 53,
+                    "bound_topic_ids": [
+                        2057,
+                        9628,
+                        47327,
+                        70334,
+                        724916
+                    ],
+                    "is_following": false,
+                    "excerpt": "",
+                    "relationship": {
+                        "is_author": false
+                    },
+                    "detail": "",
+                    "question_type": "normal"
+                },
+                "excerpt": "喔，那是他活明白了。 十几岁、二十出头的时候，对自己喜欢的女孩子，是有无尽的占有欲的，不止是占有欲，还有时常与这种占有欲对抗的理智。 一开始觉得这就是喜欢。 没错，这的确是喜欢，但这种喜欢，不可持续，也愈发无趣。 恋爱谈崩了，难过痛苦了一次又一次之后，自然就明白了，所有强烈的占有欲到最后，都会带来等额的痛苦。 于是理智占据绝对上风，开始抵制占有欲。 就像小时候我们总想去改变别人，后来发现，比起改变，筛…",
+                "excerpt_new": "喔，那是他活明白了。 十几岁、二十出头的时候，对自己喜欢的女孩子，是有无尽的占有欲的，不止是占有欲，还有时常与这种占有欲对抗的理智。 一开始觉得这就是喜欢。 没错，这的确是喜欢，但这种喜欢，不可持续，也愈发无趣。 恋爱谈崩了，难过痛苦了一次又一次之后，自然就明白了，所有强烈的占有欲到最后，都会带来等额的痛苦。 于是理智占据绝对上风，开始抵制占有欲。 就像小时候我们总想去改变别人，后来发现，比起改变，筛…",
+                "preview_type": "default",
+                "preview_text": "",
+                "reshipment_settings": "allowed",
+                "content": "<p data-pid=\"9jP_7Yt7\">喔，那是他活明白了。</p><p data-pid=\"-gS2ZrG0\">十几岁、二十出头的时候，对自己喜欢的女孩子，是有无尽的占有欲的，不止是占有欲，还有时常与这种占有欲对抗的理智。</p><p data-pid=\"aXyVqpUZ\">一开始觉得这就是喜欢。</p><p data-pid=\"Tbv3R8Q2\">没错，这的确是喜欢，但这种喜欢，不可持续，也愈发无趣。</p><p data-pid=\"vy4VPbGZ\">恋爱谈崩了，难过痛苦了一次又一次之后，自然就明白了，所有强烈的占有欲到最后，都会带来等额的痛苦。</p><p data-pid=\"ayM--Z7Q\">于是理智占据绝对上风，开始抵制占有欲。</p><p data-pid=\"4Sx4rw6I\">就像小时候我们总想去改变别人，后来发现，比起改变，筛选是性价比更高的事。</p><p data-pid=\"ma9qhRFZ\">如果是我</p><p data-pid=\"BpRFtetR\">碰上一个想要激发我的占有欲，让我吃醋的姑娘，我第一反应会是“这人事多，处下去累，不适合恋爱”。</p><p data-pid=\"F_3TPKpv\">你如果是刻意想体会对方的吃醋或者占有欲，那就是想用自己的不稳定来激发对方的不安全感，让对方觉得自己很在乎你，这其实是变相PUA。</p><p data-pid=\"noGJJI1B\">没什么选择权的人，或者涉世未深的年轻人会吃这一套。</p><p data-pid=\"RZoR1aBu\">而我们这种人，有选择权，有经历，只会默默地嫌你事多。</p><p data-pid=\"rAKDXeBn\">你做了什么事会让我吃醋或者占有欲强？</p><p data-pid=\"-r4n-aF5\">排除掉个别人天生性格上比较别扭的，按正常人角度来说，只有一个可能：你做事没边界没分寸，你越界了，你的越界令对方不安。</p><p data-pid=\"el62WZyt\">而让对方不安，即等同于你连最基本的安全感、体面和尊重都无法提供。</p><p data-pid=\"l1f4_VzE\">这样的对象，不够优质，过于费神。</p><p data-pid=\"9sv7zgiU\">男孩子一旦经历过明白了，碰上了就会直接Pass。</p><p data-pid=\"aFWJ0PEv\">他这是正在觉醒呢。</p>",
+                "mark_infos": [],
+                "relationship": {
+                    "is_thanked": false,
+                    "is_nothelp": false,
+                    "voting": 0,
+                    "upvoted_followee_ids": []
+                },
+                "is_labeled": false,
+                "visited_count": 1724937,
+                "creation_relationship": {},
+                "favorite_count": 12717
+            },
+            "brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 2554227045}",
+            "uninterest_reasons": [
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19579116",
+                    "object_type": "topic",
+                    "reason_text": "男朋友"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19691797",
+                    "object_type": "topic",
+                    "reason_text": "恋爱经历"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19760787",
+                    "object_type": "topic",
+                    "reason_text": "占有欲"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "21707343",
+                    "object_type": "topic",
+                    "reason_text": "情感热点"
+                },
+                {
+                    "reason_id": 2,
+                    "reason_type": "creator",
+                    "object_token": "69fe5c9ae0e7fa028722916b252a7810",
+                    "object_type": "people",
+                    "reason_text": "范逸超创作的内容"
+                }
+            ],
+            "attached_info": "Cv8DCNDpkoCbqLvOogEQBBoJNDk0NDg5MzA5IJSu+5UGKLyLATCkBkAQSi8KJlRTX1NPVVJDRV9aUkVDQUxMX0ZFRURSRV9ORVdCSUVfSE9VUkxZEgEwGAAgAFoINjY1NTA0NDliIGY0Y2JlMDhmYmVkNjk4MmJmZmFjYWNlNmQzYjFiMmFmcgoyNTU0MjI3MDQ1igEJNDY5MjE4OTUzqgEJcmVjb21tZW5k8gEFCAsSATPyAQoIDBIGTm9ybWFs8gEoCAoSJDZmOGE3ZTMwLTVkZmMtNGUyNi1iYTdlLTk0ZThlMDhkNWRkOYgC7faoiacwkgIgNjlmZTVjOWFlMGU3ZmEwMjg3MjI5MTZiMjUyYTc4MTCaAgDKAhxIaWdoSG90Q29udGVudFBvb2xXZWlnaHRSdWxlygIlQ29udGVudENsdXN0ZXJGaXJzdExldmVsSXNvbGF0aW9uUnVsZdoCJlRTX1NPVVJDRV9aUkVDQUxMX0ZFRURSRV9ORVdCSUVfSE9VUkxZ6AID+gILTk9STUFMX0ZMT1eKAyBhOGI2ZjY3MWNhZTQ0Nzc5OTM3ZjQ5ODE1MmNkMzFmMJoDBgoCdjIQAKgDiaRpwgMA0gMeMS43IOS4h+i1nuWQjCDCtyAxLjIg5LiH5pS26JeP2AMA6gMNbmV3YmllX2ZlZWRyZZICJQoJNDk0NDg5MzA5EgoyNTU0MjI3MDQ1GAQiCklNQUdFX1RFWFQ=",
+            "actors": [
+                {
+                    "id": "19550228",
+                    "type": "topic",
+                    "url": "https://www.zhihu.com/topic/19550228/hot",
+                    "avatar_url": "https://pic4.zhimg.com/50/e82bab09c_s.jpg",
+                    "name": "随便看看",
+                    "excerpt": "",
+                    "introduction": ""
+                }
+            ],
+            "show_actor_time": false,
+            "action_text": "随便看看",
+            "action_text_tpl": "热门内容, 来自: {}",
+            "action_card": false
+        },
+        {
+            "id": "17_1659755969.927",
+            "type": "feed",
+            "offset": 17,
+            "verb": "TOPIC_ACKNOWLEDGED_ANSWER",
+            "created_time": 1659755969,
+            "updated_time": 1659755969,
+            "target": {
+                "id": 2607501456,
+                "type": "answer",
+                "url": "https://api.zhihu.com/answers/2607501456",
+                "author": {
+                    "id": "faa78faa8b2e066a85da17881db5bb94",
+                    "type": "people",
+                    "url": "https://api.zhihu.com/people/faa78faa8b2e066a85da17881db5bb94",
+                    "user_type": "people",
+                    "url_token": "da-guai-wu-de-da-qie-zi",
+                    "name": "懂车老王",
+                    "headline": "普及机械和古典乐是我一生的使命，所以我有时会在直播间弹琴",
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-d418e43e388530ed8a3471925aa0a5ea_m.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "badge": [],
+                    "followers_count": 12390,
+                    "is_following": false,
+                    "is_followed": false
+                },
+                "created_time": 1659499883,
+                "updated_time": 1659499883,
+                "voteup_count": 2,
+                "thanks_count": 0,
+                "comment_count": 0,
+                "is_copyable": true,
+                "question": {
+                    "id": 524535773,
+                    "type": "question",
+                    "url": "https://api.zhihu.com/questions/524535773",
+                    "author": {
+                        "id": "47c13a8791fb37afcb4eefafe3ecbffd",
+                        "type": "people",
+                        "url": "https://api.zhihu.com/people/47c13a8791fb37afcb4eefafe3ecbffd",
+                        "user_type": "people",
+                        "url_token": "qi-rui-yong-zhou-mo-shun",
+                        "name": "奇瑞永州万顺",
+                        "headline": "",
+                        "avatar_url": "https://pic1.zhimg.com/50/v2-5ec6e24520cef01c8edd13c9a5d39473_m.jpg",
+                        "is_org": false,
+                        "gender": 0,
+                        "badge": [],
+                        "followers_count": 0,
+                        "is_following": false,
+                        "is_followed": false
+                    },
+                    "title": "如何评价瑞虎8PRO+汽车上市？",
+                    "created": 1648429212,
+                    "answer_count": 12,
+                    "follower_count": 6,
+                    "comment_count": 0,
+                    "bound_topic_ids": [
+                        570,
+                        172837,
+                        578097
+                    ],
+                    "is_following": false,
+                    "excerpt": "",
+                    "relationship": {
+                        "is_author": false
+                    },
+                    "detail": "",
+                    "question_type": "normal"
+                },
+                "thumbnail": "https://pic2.zhimg.com/50/v2-f91c2999a26c0e19da1db70f1d015d67_hd.jpg",
+                "thumbnail_extra_info": {
+                    "video_id": "1538105915978461185",
+                    "type": "video",
+                    "url": "https://pic1.zhimg.com/v2-228de743e51351b8dfe209f16b29b59b.jpg?source=382ee89a",
+                    "height": 1080,
+                    "width": 1920,
+                    "duration": 633,
+                    "playlist": {
+                        "ld": {
+                            "url": "https://vdn3.vzuu.com/SD/5f4a4380-12d2-11ed-8259-3e1a3cd19c99-v8_t121-widgKzZMXQ.mp4?disable_local_cache=1&bu=b9ce98d5&c=avc.8.0&f=mp4&expiration=1659759569&auth_key=1659759569-0-0-21042e28bb9dc01f95b59e37b44feebe&v=tx&pu=1513c7c2",
+                            "bitrate": 291,
+                            "duration": 633,
+                            "format": "mp4",
+                            "fps": 24,
+                            "height": 478,
+                            "size": 23102886,
+                            "width": 848
+                        },
+                        "sd": {
+                            "url": "https://vdn3.vzuu.com/SD/5f4a4380-12d2-11ed-8259-3e1a3cd19c99-v8_t121-widgKzZMXQ.mp4?disable_local_cache=1&bu=b9ce98d5&c=avc.8.0&f=mp4&expiration=1659759569&auth_key=1659759569-0-0-21042e28bb9dc01f95b59e37b44feebe&v=tx&pu=1513c7c2",
+                            "bitrate": 291,
+                            "duration": 633,
+                            "format": "mp4",
+                            "fps": 24,
+                            "height": 478,
+                            "size": 23102886,
+                            "width": 848
+                        },
+                        "hd": {
+                            "url": "https://vdn3.vzuu.com/HD/5f4a4380-12d2-11ed-8259-3e1a3cd19c99-v8_t121-widgKzZMXQ.mp4?disable_local_cache=1&bu=b9ce98d5&c=avc.8.0&f=mp4&expiration=1659759569&auth_key=1659759569-0-0-7956b6da9f5952899099f4c3cc1d6257&v=tx&pu=1513c7c2",
+                            "bitrate": 464,
+                            "duration": 633,
+                            "format": "mp4",
+                            "fps": 24,
+                            "height": 720,
+                            "size": 36742341,
+                            "width": 1280
+                        }
+                    },
+                    "show_maker_entrance": false
+                },
+                "excerpt": "切开瑞虎8PRO车身发现可以聊的就比较多了！ 另外气囊怎么这么“挺”？ 座椅啥水平？实力如何？ 本期从气囊、座椅、车身等技术方面为大家展示瑞虎8 PRO这辆车的综合素质。记得三连～下集我们讲这辆车的四驱和动力总成。我是老王，下期见。",
+                "excerpt_new": "切开瑞虎8PRO车身发现可以聊的就比较多了！ 另外气囊怎么这么“挺”？ 座椅啥水平？实力如何？ 本期从气囊、座椅、车身等技术方面为大家展示瑞虎8 PRO这辆车的综合素质。记得三连～下集我们讲这辆车的四驱和动力总成。我是老王，下期见。",
+                "preview_type": "default",
+                "preview_text": "",
+                "reshipment_settings": "allowed",
+                "content": "切开瑞虎8PRO车身发现可以聊的就比较多了！\n另外气囊怎么这么“挺”？ 座椅啥水平？实力如何？\n本期从气囊、座椅、车身等技术方面为大家展示瑞虎8 PRO这辆车的综合素质。记得三连～下集我们讲这辆车的四驱和动力总成。我是老王，下期见。",
+                "mark_infos": [],
+                "relationship": {
+                    "is_thanked": false,
+                    "is_nothelp": false,
+                    "voting": 0,
+                    "upvoted_followee_ids": []
+                },
+                "is_labeled": false,
+                "visited_count": 1,
+                "play_count": 2273,
+                "attachment": {
+                    "type": 2,
+                    "is_complete": true,
+                    "parent_content_token": "1538106362143338496",
+                    "split_start": 0,
+                    "parent_title": "切开瑞虎8PRO车身发现问题了！另外气囊怎么这么“挺”？ 座椅啥水平？实力如何？",
+                    "parent_play_count": 40848,
+                    "parent_voteup_count": 20
+                },
+                "thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-f91c2999a26c0e19da1db70f1d015d67_hd.jpg"
+                ],
+                "creation_relationship": {
+                    "render_json": "{}"
+                },
+                "favorite_count": 0
+            },
+            "brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 2607501456}",
+            "uninterest_reasons": [
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "21272604",
+                    "object_type": "topic",
+                    "reason_text": "瑞虎8"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "19551915",
+                    "object_type": "topic",
+                    "reason_text": "汽车"
+                },
+                {
+                    "reason_id": 3,
+                    "reason_type": "topic",
+                    "object_token": "20061197",
+                    "object_type": "topic",
+                    "reason_text": "奇瑞瑞虎"
+                },
+                {
+                    "reason_id": 2,
+                    "reason_type": "creator",
+                    "object_token": "faa78faa8b2e066a85da17881db5bb94",
+                    "object_type": "people",
+                    "reason_text": "懂车老王创作的内容"
+                }
+            ],
+            "attached_info": "CrQGCNDpkoCbqLvOogEQBBoJNTA0MTc2MzEzIOvqp5cGKAIwAEARSjIKKVRTX1NPVVJDRV9WSURFT19BTlNXRVJfRkVFRFJFXzNEX05FV19JVEVNEgEwGAAgAEopCiBUU19TT1VSQ0VfVklERU9fQU5TV0VSX0ZFRURSRV8zRBIBMBgAIABaCDc4ODQ1MDc5YiBmNGNiZTA4ZmJlZDY5ODJiZmZhY2FjZTZkM2IxYjJhZmiB4Mrm5uWcrBVyCjI2MDc1MDE0NTaKAQk1MjQ1MzU3NzOqAQlyZWNvbW1lbmTyAQUICxIBM/IBCggMEgZOb3JtYWzyASgIChIkM2Q2MTY3YzctOTBmMi00ZWRkLWJkMDYtYTU5YjRmZDgxNDNhiALt9qiJpzCSAiBmYWE3OGZhYThiMmUwNjZhODVkYTE3ODgxZGI1YmI5NJoCAMoCFVpWaWRlb0xldmVsV2VpZ2h0UnVsZcoCFFRpbWVsaW5lc3NXZWlnaHRSdWxlygIaSGlnaExldmVsQ3JlYXRvcldlaWdodFJ1bGXKAhdadmlkZW9FeHBhbmRXV2VpZ2h0UnVsZcoCG1ZpZGVvTmV0d29ya1NjZW5lV2VpZ2h0UnVsZcoCHlp2aWRlb1VzZXJQZXJmZXJlbmNlV2VpZ2h0UnVsZcoCElZpZGVvSXNvbGF0aW9uUnVsZcoCElZpZGVvSXNvbGF0aW9uUnVsZcoCElZpZGVvSXNvbGF0aW9uUnVsZcoCElZpZGVvSXNvbGF0aW9uUnVsZcoCElZpZGVvSXNvbGF0aW9uUnVsZdoCKVRTX1NPVVJDRV9WSURFT19BTlNXRVJfRkVFRFJFXzNEX05FV19JVEVN6AIE+gILTk9STUFMX0ZMT1eKAyBhOGI2ZjY3MWNhZTQ0Nzc5OTM3ZjQ5ODE1MmNkMzFmMJoDBgoCdjIQAKgDAcIDNuaRhOW9seeIseWlveiAheOAgeeIsei9puWmguWRveOAgeiJuuacr+WutuOAgemfs+S5kOaOp9IDCzQg5LiH5pKt5pS+2AMA6gMiZmVlZHJlX3YzX3ZpZGVvX2Fuc3dlcl8zZF9uZXdfaXRlbZICIAoJNTA0MTc2MzEzEgoyNjA3NTAxNDU2GAQiBVZJREVP",
+            "actors": [
+                {
+                    "id": "19550228",
+                    "type": "topic",
+                    "url": "https://www.zhihu.com/topic/19550228/hot",
+                    "avatar_url": "https://pic4.zhimg.com/50/e82bab09c_s.jpg",
+                    "name": "随便看看",
+                    "excerpt": "",
+                    "introduction": ""
+                }
+            ],
+            "show_actor_time": false,
+            "action_text": "随便看看",
+            "action_text_tpl": "热门内容, 来自: {}",
+            "action_card": false
+        }
+    ],
+    "paging": {
+        "previous": "https://www.zhihu.com/api/v3/feed/topstory/recommend?session_token=f4cbe08fbed6982bffacace6d3b1b2af&desktop=true&page_number=4&limit=6&action=pull&ad_interval=-10&before_id=17",
+        "next": "https://www.zhihu.com/api/v3/feed/topstory/recommend?session_token=f4cbe08fbed6982bffacace6d3b1b2af&desktop=true&page_number=4&limit=6&action=down&after_id=17&ad_interval=-10",
+        "is_end": false
+    },
+    "fresh_text": "关注动态已更新"
+}

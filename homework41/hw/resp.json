@@ -1,0 +1,155 @@
+{
+    "flash": [
+        {
+            "sr": "64448.05",
+            "name": "\u5927\u5355\u6d41\u51fa",
+            "color": "#507214,#71a020,#b5c467,#dd7677,#ca4e50,#b11c1e"
+        },
+        {
+            "sr": "54782.25",
+            "name": "\u4e2d\u5355\u6d41\u51fa"
+        },
+        {
+            "sr": "9.86",
+            "name": "\u5c0f\u5355\u6d41\u51fa"
+        },
+        {
+            "sr": "5.31",
+            "name": "\u5c0f\u5355\u6d41\u5165"
+        },
+        {
+            "sr": "60098.49",
+            "name": "\u4e2d\u5355\u6d41\u5165"
+        },
+        {
+            "sr": "77856.35",
+            "name": "\u5927\u5355\u6d41\u5165"
+        }
+    ],
+    "field": {
+        "hyje": "30037.42",
+        "hyname": "\u996e\u6599\u5236\u9020",
+        "hyzdf": [
+            {
+                "stockcode": 600696,
+                "stockname": "\u5ca9\u77f3\u80a1\u4efd",
+                "je": "1359.71",
+                "zdf": "3.81"
+            },
+            {
+                "stockcode": "000929",
+                "stockname": "\u5170\u5dde\u9ec4\u6cb3",
+                "je": "928.22",
+                "zdf": "3.11"
+            },
+            {
+                "stockcode": 605198,
+                "stockname": "\u5fb7\u5229\u80a1\u4efd",
+                "je": "966.23",
+                "zdf": "3.02"
+            },
+            {
+                "stockcode": "002304",
+                "stockname": "\u6d0b\u6cb3\u80a1\u4efd",
+                "je": "190.81",
+                "zdf": "1.22"
+            },
+            {
+                "stockcode": "002646",
+                "stockname": "\u5929\u4f51\u5fb7\u9152",
+                "je": "-89.51",
+                "zdf": "1.05"
+            },
+            {
+                "stockcode": 600702,
+                "stockname": "\u820d\u5f97\u9152\u4e1a",
+                "je": "18708.87",
+                "zdf": "0.25"
+            },
+            {
+                "stockcode": "000568",
+                "stockname": "\u6cf8\u5dde\u8001\u7a96",
+                "je": "14872.71",
+                "zdf": "0.23"
+            },
+            {
+                "stockcode": "000858",
+                "stockname": "\u4e94\u7cae\u6db2",
+                "je": "8963.58",
+                "zdf": "0.13"
+            },
+            {
+                "stockcode": 600199,
+                "stockname": "\u91d1\u79cd\u5b50\u9152",
+                "je": "-1527.65",
+                "zdf": "0.04"
+            },
+            {
+                "stockcode": 600519,
+                "stockname": "\u8d35\u5dde\u8305\u53f0",
+                "je": "18719.98",
+                "zdf": "-0.03"
+            }
+        ],
+        "py": "ylzz",
+        "desc": [
+            {
+                "ddje": "144031.14",
+                "stockcode": 600438,
+                "stockname": "\u901a\u5a01\u80a1\u4efd"
+            },
+            {
+                "ddje": "59344.39",
+                "stockcode": "000591",
+                "stockname": "\u592a\u9633\u80fd"
+            },
+            {
+                "ddje": "52399.57",
+                "stockcode": "000001",
+                "stockname": "\u5e73\u5b89\u94f6\u884c"
+            },
+            {
+                "ddje": "51592.71",
+                "stockcode": 600021,
+                "stockname": "\u4e0a\u6d77\u7535\u529b"
+            },
+            {
+                "ddje": "47613.25",
+                "stockcode": 600905,
+                "stockname": "\u4e09\u5ce1\u80fd\u6e90"
+            }
+        ],
+        "asc": [
+            {
+                "ddje": "-73103.13",
+                "stockcode": "002594",
+                "stockname": "\u6bd4\u4e9a\u8fea"
+            },
+            {
+                "ddje": "-76661.52",
+                "stockcode": "002466",
+                "stockname": "\u5929\u9f50\u9502\u4e1a"
+            },
+            {
+                "ddje": "-83865.23",
+                "stockcode": "002459",
+                "stockname": "\u6676\u6fb3\u79d1\u6280"
+            },
+            {
+                "ddje": "-95437.29",
+                "stockcode": "000625",
+                "stockname": "\u957f\u5b89\u6c7d\u8f66"
+            },
+            {
+                "ddje": "-261836.78",
+                "stockcode": 601012,
+                "stockname": "\u9686\u57fa\u7eff\u80fd"
+            }
+        ]
+    },
+    "title": {
+        "zlc": 119240.16,
+        "zlr": 137960.15,
+        "je": "18719.99"
+    }
+}

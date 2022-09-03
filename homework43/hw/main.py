@@ -1,12 +1,4 @@
-# https://www.zhihu.com/api/v4/comment_v5/answers/2533572106/root_comment?order_by=score&limit=20&offset=
-# https://www.zhihu.com/api/v3/feed/topstory/recommend?session_token=18368d9c1707266a2b98935c1e74249d&desktop=true&page_number=3&limit=6&action=down&after_id=11&ad_interval=-10
-# https://www.zhihu.com/api/v3/feed/topstory/recommend?session_token=18368d9c1707266a2b98935c1e74249d&desktop=true&page_number=4&limit=6&action=down&after_id=17&ad_interval=-10
-
-
-
-
 import requests
-import json
 import pandas as pd
 
 
@@ -20,9 +12,11 @@ filename = "results.xlsx"
 urls = []
 results = []
 ids = []
+urls_ = {}
 
 for _ in range(4, 8):
     urls.append("https://www.zhihu.com/api/v3/feed/topstory/recommend?session_token=18368d9c1707266a2b98935c1e74249d&desktop=true&page_number={}&limit=10&action=down&after_id=17&ad_interval=-10".format(_))
+
 
 
 headers= {
@@ -37,4 +31,13 @@ for url in urls:
         ids.append(response["data"][_]["target"]["id"])
 
 
-for 
+for _ in ids:
+    urls_[_] = ("https://www.zhihu.com/api/v4/comment_v5/answers/2533572106/root_comment?order_by=score&limit=20&offset=".format(_))
+
+
+
+for _id, url in urls_:
+    response = requests.get(url, headers=headers, proxies=proxies).json()
+    contents = response["data"][0]["contents"]
+
+
