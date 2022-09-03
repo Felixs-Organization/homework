@@ -33,15 +33,18 @@ for url in urls:
 
 
 for _ in ids:
-    urls_.append("https://www.zhihu.com/api/v4/comment_v5/answers/2533572106/root_comment?order_by=score&limit=20&offset=".format(_))
+    urls_.append("https://www.zhihu.com/api/v4/comment_v5/answers/{}/root_comment?order_by=score&limit=20&offset=".format(_))
 
-print(urls_)
 
 for url in urls_:
     response = requests.get(url, headers=headers, proxies=proxies).json()
-    contents = response["data"][0]["content"]
-    results
+    print(url)
+    contents = response["data"][0:1]["content"]
+    results.append(contents)
 
 
-with open('results.txt', 'w') as _:
-    json.dumps(_, response)
+
+df = pd.DataFrame(results)
+
+df.to_excel(filename)
+
