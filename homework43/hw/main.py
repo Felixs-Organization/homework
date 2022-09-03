@@ -1,5 +1,6 @@
 import requests
 import pandas as pd
+import json
 
 
 proxies = {
@@ -12,7 +13,7 @@ filename = "results.xlsx"
 urls = []
 results = []
 ids = []
-urls_ = {}
+urls_ = []
 
 for _ in range(4, 8):
     urls.append("https://www.zhihu.com/api/v3/feed/topstory/recommend?session_token=18368d9c1707266a2b98935c1e74249d&desktop=true&page_number={}&limit=10&action=down&after_id=17&ad_interval=-10".format(_))
@@ -32,12 +33,15 @@ for url in urls:
 
 
 for _ in ids:
-    urls_[_] = ("https://www.zhihu.com/api/v4/comment_v5/answers/2533572106/root_comment?order_by=score&limit=20&offset=".format(_))
+    urls_.append("https://www.zhihu.com/api/v4/comment_v5/answers/2533572106/root_comment?order_by=score&limit=20&offset=".format(_))
 
+print(urls_)
 
-
-for _id, url in urls_:
+for url in urls_:
     response = requests.get(url, headers=headers, proxies=proxies).json()
-    contents = response["data"][0]["contents"]
+    contents = response["data"][0]["content"]
+    results
 
 
+with open('results.txt', 'w') as _:
+    json.dumps(_, response)
