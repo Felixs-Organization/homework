@@ -35,10 +35,11 @@ for url in urls:
 for _ in ids:
     urls_.append("https://www.zhihu.com/api/v4/comment_v5/answers/{}/root_comment?order_by=score&limit=20&offset=".format(_))
 
-
+print(urls_ )
 for url in urls_:
     response = requests.get(url, headers=headers, proxies=proxies).json()
     print(url)
+    print(response)
     contents = response["data"][0:1]["content"]
     results.append(contents)
 
