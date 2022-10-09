@@ -1,0 +1,7 @@
+
+
+<a href="#/hero-detail?heroid=1" class=""></a>
+
+
+"/html/body/div/div/div[3]/div/div/ul/li[1]/a/@href".split('?')[1]
+
